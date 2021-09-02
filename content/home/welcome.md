@@ -18,4 +18,4 @@ hero_media: darwin-removed.png
 <br />
 A project to understand the evolution of technology and find the building blocks of empirical meta-engineering.
 
-![nn-gol](https://galapagos.netlify.app/media/game-of-life-neural-networks-contrast-removeb.png)
+![nn-gol](https://raw.githubusercontent.com/KeithPatarroyo/galapagos-project/main/assets/media/game-of-life-neural-networks-contrast-removeb.png)
