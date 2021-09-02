@@ -11,11 +11,11 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: darwin-removed.png
+    image: 
     color: '#f0f7fa'
 hero_media: darwin-removed.png
 ---
 <br />
 A project to understand the evolution of technology and find the building blocks of empirical meta-engineering.
 
-![nn-gol](game-of-life-neural-networks-contrast-removeb.png)
+![nn-gol](/media/game-of-life-neural-networks-contrast-removeb.png)
