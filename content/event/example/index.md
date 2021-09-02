@@ -12,7 +12,7 @@ address:
   postcode: 
   country: Canada
 
-summary: Announcment of the Main Endeavors of the Project.
+summary: Announcement of the Main Endeavors of the Project.
 abstract: "Keith Patarroyo publicly kicks off an ambitious new project to find science of MetaEngineering. The crucial element in this voyage is the Game of Life Cellular (GoL) Automata. By analyzing its 50 year development we aim to distill the key elements of innovation and obtain  the building blocks of the empirical science of MetaEngineering."
 
 # Talk start and end times.
@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ""
