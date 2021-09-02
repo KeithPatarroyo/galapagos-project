@@ -11,9 +11,9 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: /images/darwin-removed.png
+    image: 
     color: '#f0f7fa'
-hero_media: /images/darwin-removed.png
+hero_media: 
 ---
 <br />
 A project to understand the evolution of technology and find the building blocks of empirical meta-engineering.
