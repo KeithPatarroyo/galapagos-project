@@ -38,7 +38,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
 highlight_name: false
 ---
 Keith Patarroyo is a M.Sc. student in Computer Science at the [Computational Design Group](http://www-labs.iro.umontreal.ca/~bernhard/) from the Université de Montréal. He works on the modeling of slender mechanical structures under the supervision of [Bernhard Thomaszewski](http://www-labs.iro.umontreal.ca/~bernhard/bernhard.html). He is  also a member of [LIGUM](http://www.ligum.umontreal.ca/)(Laboratoire d’Informatique Graphique de l’Université de Montréal) and a Research Affiliate of the [Wolfram Physics Project](https://www.wolframphysics.org/).
