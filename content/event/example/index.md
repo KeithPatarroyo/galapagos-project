@@ -33,13 +33,15 @@ featured: true
 image:
   caption: ''
   focal_point: Right
-
+  
+links:
+- name: 'Web Version'
+  url: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-- name: 'Web Version'
-  url: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
+
 
 
 # Markdown Slides (optional).
