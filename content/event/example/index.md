@@ -13,7 +13,7 @@ address:
   country: Canada
 
 summary: Announcement of the Main Endeavors of the Project.
-abstract: "Keith Patarroyo publicly kicks off an ambitious new project to find science of MetaEngineering. The crucial element in this voyage is the Game of Life Cellular (GoL) Automata. By analyzing its 50 year development we aim to distill the key elements of innovation and obtain  the building blocks of the empirical science of MetaEngineering."
+abstract: "Keith Patarroyo publicly kicks off an ambitious new project to find science of MetaEngineering. The crucial element in this voyage is the Game of Life Cellular (GoL) Automata. By analyzing its 50 year development the project aims to distill the key elements of innovation and obtain  the building blocks of the empirical science of MetaEngineering."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,7 +38,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_web: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
+- name: 'Web Version'
+  url: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
 
 
 # Markdown Slides (optional).
