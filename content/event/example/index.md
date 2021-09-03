@@ -37,7 +37,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
