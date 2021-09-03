@@ -54,10 +54,8 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+Slides:
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4yNmYAGGJrpaEzWQsJppCclhMohP-Fme4kTUCKRRoY6i3aKZvMLGvRV4h1duDSs71H1cTnpsmFoGD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vS4yNmYAGGJrpaEzWQsJppCclhMohP-Fme4kTUCKRRoY6i3aKZvMLGvRV4h1duDSs71H1cTnpsmFoGD/embed?start=false&loop=false&delayms=3000" >}}
