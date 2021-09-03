@@ -56,6 +56,4 @@ projects:
 
 Slides:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4yNmYAGGJrpaEzWQsJppCclhMohP-Fme4kTUCKRRoY6i3aKZvMLGvRV4h1duDSs71H1cTnpsmFoGD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vS4yNmYAGGJrpaEzWQsJppCclhMohP-Fme4kTUCKRRoY6i3aKZvMLGvRV4h1duDSs71H1cTnpsmFoGD/embed?start=false&loop=false&delayms=3000" >}}
