@@ -1,5 +1,5 @@
 ---
-title: Gálapagos Project Announcement
+title: Gálapagos Project Launch
 
 event: Livestream
 event_url: https://www.youtube.com/watch?v=FPNmNUJFslo
@@ -37,7 +37,9 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
+url_video: ""
+url_web: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
