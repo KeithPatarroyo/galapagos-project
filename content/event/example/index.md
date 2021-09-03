@@ -35,12 +35,12 @@ image:
   focal_point: Right
   
 links:
-- name: 'Web Version'
+- name: 'Announcement Post'
   url: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=FPNmNUJFslo"
 
 
 
