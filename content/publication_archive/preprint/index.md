@@ -1,7 +1,7 @@
 ---
 title: "A digression on Hermite polynomials"
 authors:
-- admin
+- Keith Patarroyo
 date: "2019-01-07T00:00:00Z"
 doi: ""
 
