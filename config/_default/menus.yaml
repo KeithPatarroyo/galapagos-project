@@ -20,7 +20,7 @@ main:
     url: event
     weight: 45
   - name: Materials
-    url: publication
+    url: material
     weight: 50
   - name: Contact
     url: contact
