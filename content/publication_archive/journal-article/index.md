@@ -1,7 +1,7 @@
 ---
 title: "Preserving data moments in density estimation via diffusion using the finite element method"
 authors:
-- admin
+- Keith Patarroyo
 - Juan Galvis
 - Francisco Gómez
 author_notes:
