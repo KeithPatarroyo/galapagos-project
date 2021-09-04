@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: 'Web Version'
+- name: 'Medium Post'
   url: https://keithypts.medium.com/technology-or-monetary-system-what-is-the-key-to-progress-part-i-the-case-for-technology-61a6c6905638
 url_pdf: ''
 url_code: '' 
