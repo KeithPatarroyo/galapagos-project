@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: 'Web Version'
+- name: 'Medium Post'
   url: https://keithypts.medium.com/technology-or-monetary-system-what-is-the-key-to-progress-8d3ad19202d5
 url_pdf: ''
 url_code: '' 
