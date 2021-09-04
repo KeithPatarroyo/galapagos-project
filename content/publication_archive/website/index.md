@@ -1,7 +1,7 @@
 ---
 title: "Defect Movement in Lattice Rewriting Systems"
 authors:
-- admin
+- Keith Patarroyo
 date: "2021-01-07T00:00:00Z"
 doi: ""
 
