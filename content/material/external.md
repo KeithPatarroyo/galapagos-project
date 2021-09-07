@@ -27,7 +27,7 @@ table.center .tg-c3ow{text-align:center;vertical-align:top}
 <table class="center">
 <thead>
   <tr>
-    <th class="tg-c3ow"><a href="https://galapagos.netlify.app/external">List of external material.</a></th>
+    <th class="tg-c3ow" style="width: 100%;" ><a href="https://galapagos.netlify.app/external">List of external material.</a></th>
   </tr>
 </thead>
 </table>
