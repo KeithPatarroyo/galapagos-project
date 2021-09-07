@@ -6,8 +6,9 @@ active: false
 
 <style type="text/css">
 .article-style{font-size: 0.7rem;}
-.alert alert-note{font-size: 0.7rem;}
+alert .alert-note{font-size: 0.7rem;}
 </style>
+
 
 
 
