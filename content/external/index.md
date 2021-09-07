@@ -49,11 +49,19 @@ Listed here for convenience are publications of which we are aware that may be r
 - Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
 - Kempes, Christopher P., and David C. Krakauer. "The Multiple Paths to Multiple Life." Journal of Molecular Evolution (2021): 1-12.
 ## Artificial Life
+- Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
+- Webster, Matt, and Grant Malcolm. "Hierarchical Components and Entity-based Modelling in Artificial Life." ALIFE. 2008.
+- Webster, Matthew Paul. Formal models of reproduction: from computer viruses to artificial life. Diss. University of Liverpool, UK, 2008.
+- Randazzo, Ettore, Luca Versari, and Alexander Mordvintsev. "Recursively Fertile Self-replicating Neural Agents." ALIFE 2021: The 2021 Conference on Artificial Life. MIT Press, 2021.
+- Sudhakaran, Shyam, et al. "Growing 3D Artefacts and Functional Machines with Neural Cellular Automata." arXiv preprint arXiv:2103.08737 (2021).
+- Grbic, Djordje, et al. "EvoCraft: A New Challenge for Open-Endedness." EvoApplications. 2021.
 ## Evolution
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – Nature The Great Engineer"](https://www.webofstories.com/play/danny.hillis/184). Web of Stories. Retrieved 07 September 2021.
 ## Cultural Evolution
 - Duarte, Miguel Feliciano da Cunha Oliveira. "Gamified Interfaces as a means to motivate exploration and comprehension of Musical Genres." (2020).
 - Mason Youngblood, Karim Baraghith, & Patrick E. Savage. (2020). Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975-1999).
+## Biological Self-Replicators
+- 
 # Mathematics
 - Terence Tao (2015). Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674.
 ## Logic and Foundation of Mathematics
@@ -67,6 +75,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Ghassaei, Amanda Paige. Rapid design and simulation of functional digital materials. Diss. Massachusetts Institute of Technology, 2016.
 - Langford, William Kai. Electronic digital materials. Diss. Massachusetts Institute of Technology, 2014.
 - [Assembled Assemblers](http://cba.mit.edu/projects/dma/assembled_assemblers/index.html)
+- Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
 ## Distributed Systems
 - L. Lamport (1978), “Time, Clocks, and the Ordering of Events in a Distributed System”, Commun ACM 21, 558–65. doi:10.1145/359545.359563.
 ## Machine Learning
@@ -78,6 +87,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Jacob M. Springer, & Garrett T. Kenyon. (2020). It's Hard for Neural Networks To Learn the Game of Life.
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – How to create an intelligence"](https://www.webofstories.com/play/danny.hillis/189). Web of Stories. Retrieved 07 September 2021.
 - [IMO Grand Challenge](https://imo-grand-challenge.github.io/)
+## Virus and Self-Replicating Programs
+- Thompson, Ken. "Reflections on trusting trust." ACM Turing award lectures. 2007. 1983.
 # Physics
 ## BioPhysics
 - Marshall, S. M., Moore, D., Murray, A. R., Walker, S. I., & Cronin, L. (2019). Quantifying the pathways to life using assembly spaces. arXiv preprint arXiv:1907.04649.
