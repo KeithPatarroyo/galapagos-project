@@ -61,8 +61,10 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Cultural Evolution
 - Duarte, Miguel Feliciano da Cunha Oliveira. "Gamified Interfaces as a means to motivate exploration and comprehension of Musical Genres." (2020).
 - Mason Youngblood, Karim Baraghith, & Patrick E. Savage. (2020). Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975-1999).
-## Biological Self-Replicators
-- 
+## Biological Self-Replicators and Universal Constructors
+- Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
+- Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
+- Bokov, Konstantin, and Sergey V. Steinberg. "A hierarchical model for evolution of 23S ribosomal RNA." Nature 457.7232 (2009): 977-980.
 # Mathematics
 - Terence Tao (2015). Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674.
 ## Logic and Foundation of Mathematics
@@ -79,6 +81,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
 ## Distributed Systems
 - L. Lamport (1978), “Time, Clocks, and the Ordering of Events in a Distributed System”, Commun ACM 21, 558–65. doi:10.1145/359545.359563.
+- 
 ## Machine Learning
 - François Chollet. (2019). On the Measure of Intelligence.
 - Pascal Friederich, Mario Krenn, Isaac Tamblyn, & Alán Aspuru-Guzik (2021). Scientific intuition inspired by machine learning-generated hypotheses. Machine Learning: Science and Technology, 2(2), 025027.
