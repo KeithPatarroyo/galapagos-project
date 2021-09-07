@@ -17,9 +17,6 @@ Listed here for convenience are publications of which we are aware that may be r
 
 ---
 # Economics
-- Nagy B, Farmer JD, Bui QM, Trancik JE (2013) Statistical Basis for Predicting Technological Progress.
-- Role of design complexity in technology improvement James McNerney, J. Doyne Farmer, Sidney Redner, Jessika E. Trancik Proceedings of the National Academy of Sciences May 2011, 108 (22) 9008-9013
-- Devine, S. An Economy Viewed as a Far-from-Equilibrium System from the Perspective of Algorithmic Information Theory. Entropy 2018, 20, 228.
 ## Development Economics
 - Paul M. Romer, Two Strategies for Economic Development: Using Ideas and Producing Ideas, The World Bank Economic Review, Volume 6, Issue suppl_1, December 1992, Pages 63–91, https://doi.org/10.1093/wber/6.suppl_1.63
 ## Complexity Economics
@@ -31,6 +28,13 @@ Listed here for convenience are publications of which we are aware that may be r
 - Hidalgo, C., Klinger, B., Barabási, A.L., & Hausmann, R. (2007). The Product Space Conditions the Development of Nations. Science, 317(5837), 482–487.
 - Hausmann, R., et al., 2013. The Atlas of Economic Complexity: Mapping Paths to Prosperity 2nd ed., Cambridge: MIT Press
 - Hidalgo, C. 2015. Why Information Grows: The Evolution of Order, from Atoms to Economies, New York: Basic Books.
+## Non-Equilibrium Economics
+- Devine, S. An Economy Viewed as a Far-from-Equilibrium System from the Perspective of Algorithmic Information Theory. Entropy 2018, 20, 228.
+## Technological Progress
+- Nagy B, Farmer JD, Bui QM, Trancik JE (2013) Statistical Basis for Predicting Technological Progress.
+- Role of design complexity in technology improvement James McNerney, J. Doyne Farmer, Sidney Redner, Jessika E. Trancik Proceedings of the National Academy of Sciences May 2011, 108 (22) 9008-9013
+- Bloom, Nicholas, et al. "Are ideas getting harder to find?." American Economic Review 110.4 (2020): 1104-44.
+- Cowen, Tyler, and Ben Southwood. "Is the rate of scientific progress slowing down?." Available at SSRN 3822691 (2019).
 # Engineering
 ## Inventions
 - Arthur, W. B. The nature of technology. What it is and how it evolves. (Free Press, 2009).
@@ -49,6 +53,7 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Origin of Life
 - Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
 - Kempes, Christopher P., and David C. Krakauer. "The Multiple Paths to Multiple Life." Journal of Molecular Evolution (2021): 1-12.
+- Smith, E., & Morowitz, H. J. (2016). The origin and nature of life on earth: the emergence of the fourth geosphere. Cambridge University Press.
 ## Artificial Life
 - Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
 - Webster, Matt, and Grant Malcolm. "Hierarchical Components and Entity-based Modelling in Artificial Life." ALIFE. 2008.
@@ -65,15 +70,32 @@ Listed here for convenience are publications of which we are aware that may be r
 - Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
 - Bokov, Konstantin, and Sergey V. Steinberg. "A hierarchical model for evolution of 23S ribosomal RNA." Nature 457.7232 (2009): 977-980.
+## Energy Transitions
+- Judson, O. The energy expansions of evolution. Nat Ecol Evol 1, 0138 (2017). https://doi.org/10.1038/s41559-017-0138
 # Mathematics
-- Terence Tao (2015). Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674.
 ## Logic and Foundation of Mathematics
+- Kleene, Stephen Cole. "Introduction to metamathematics." (1952).
+- Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
 ## Sheaf Theory
+- Bredon, Glen E. Sheaf theory. Vol. 170. Springer Science & Business Media, 2012.
 - Michael Robinson. (2016). Sheaves are the canonical datastructure for sensor integration.
+- Zalamea, Fernando. Modelos en haces para el pensamiento matem ́atico. Monografía matemático-filosófica.(To Appear), 2020.
+- MacLane, Saunders, and Ieke Moerdijk. Sheaves in geometry and logic: A first introduction to topos theory. Springer Science & Business Media, 2012.
 ## Automatic Theorem Proving
 - Carneiro, Mario. "Metamath zero: The cartesian theorem prover." arXiv preprint arXiv:1910.10703 (2019).
+- Jónathan Heras, & Ekaterina Komendantskaya. (2014). HoTT formalisation in Coq: Dependency Graphs & ML4PG.
+- Buzzard, Kevin, Johan Commelin, and Patrick Massot. "Formalising perfectoid spaces." Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs. 2020. [Project](https://leanprover-community.github.io/lean-perfectoid-spaces/)
+## Fluid Computation
+- Terence Tao (2015). Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674.
+- 
 # Computer Science
+## Cellular Automata
+- Gardner, Martin. The Fantastic Combinations of Jhon Conway's New Solitaire Game "Life." Sc. Am. 223 (1970): 20-123.
+- Berlekamp, Elwyn R., John H. Conway, and Richard K. Guy. Winning ways for your mathematical plays, volume 4. AK Peters/CRC Press, 2004.
+- Wolfram, Stephen. A new kind of science. Vol. 5. Champaign, IL: Wolfram media, 2002.
+- Adamatzky, A. (ed.), Game of life cellular automata. Springer, 2010.
 ## Automata Theory
+- Neumann, János, and Arthur W. Burks. Theory of self-reproducing automata. Vol. 1102024. Urbana: University of Illinois press, 1966.
 - Minsky, Marvin. "Computation: Finite and Infinite Machines Prentice Hall." Inc., Engelwood Cliffs, NJ (1967).
 - Rhodes, John, Chrystopher L. Nehaniv, and Morris W. Hirsch. Applications of automata theory and algebra: via the mathematical theory of complexity to biology, physics, psychology, philosophy, and games. 2010.
 ## Programable Matter
@@ -98,6 +120,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Jacob M. Springer, & Garrett T. Kenyon. (2020). It's Hard for Neural Networks To Learn the Game of Life.
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – How to create an intelligence"](https://www.webofstories.com/play/danny.hillis/189). Web of Stories. Retrieved 07 September 2021.
 - [IMO Grand Challenge](https://imo-grand-challenge.github.io/)
+- Tishby, N.; Zaslavsky, N. Deep learning, and the information bottleneck principle. In Proceedings of the 2015 IEEE Information Theory Workshop (ITW), Jerusalem, Israel, 26 April–1 May 2015; pp. 1–5.
 ## Compilers and Self-Replicating Programs
 - Thompson, Ken. "Reflections on trusting trust." ACM Turing award lectures. 2007. 1983.
 - Aho, Alfred V., Ravi Sethi, and Jeffrey D. Ullman. "Compilers, principles, techniques." Addison wesley 7.8 (1986): 9.
@@ -108,12 +131,18 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Fundamental Physics
 - Deutsch, David. "Constructor theory." Synthese 190.18 (2013): 4331-4359.
 - Deutsch, David, and Chiara Marletto. "Constructor theory of information." Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 471.2174 (2015): 20140540.
+- Wolfram, Stephen. A Project to Find the Fundamental Theory of Physics. Wolfram Media, Incorporated, 2020.
 ## Thermodynamics & Statistical Physics
 - Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
+- Flack Jessica C. 2017. Coarse-graining as a downward causation mechanism. Phil. Trans. R. Soc. A.3752016033820160338
 # Metatheories
 ## MetaExplanation
 - Wojtowicz, Z., & DeDeo, S. (2020). From Probability to Consilience: How Explanatory Values Implement Bayesian Reasoning. Trends in Cognitive Sciences.
-## MetaScience
+## Empirical MetaMathematics
+- MacLane, Saunders. Mathematics form and function. Springer Science & Business Media, 2012.
+- Wolfram,S. The Empirical Metamathematics of Euclid and Beyond, 2020. Available at https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
+- Viteri, Scott, and Simon DeDeo. "Explosive proofs of mathematical truths." arXiv preprint arXiv:2004.00055 (2020).
+## Empirical MetaScience
 - An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, & H. Eugene Stanley (2017). The science of science: From the perspective of complex systems. Physics Reports, 714-715, 1-73.
 - Anastasia Buyalskaya, Marcos Gallo, & Colin F. Camerer (2021). The golden age of social science. Proceedings of the National Academy of Sciences, 118(5), e2002923118.
 - Santo Fortunato, et al. "Science of science". Science 359. 6379(2018).
