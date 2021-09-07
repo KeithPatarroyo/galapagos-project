@@ -32,9 +32,11 @@ Listed here for convenience are publications of which we are aware that may be r
 - Sood, V., Mathieu, M., Shreim, A., Grassberger, P., & Paczuski, M. (2010). Interacting Branching Process as a Simple Model of Innovation. Phys. Rev. Lett., 105, 178701.
 - On singularities and black holes in combination-driven models of technological innovation networks Solé R., Amor D.R. and Valverde S. PLoS One, 11 (1) (2016), p. e0146180
 # Biology
+## Theoretical Biology
+- Krakauer, D., Bertschinger, N., Olbrich, E. et al. The information theory of individuality. Theory Biosci. 139, 209–223 (2020)
 ## Origin of Life
 - Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
-- Krakauer, D., Bertschinger, N., Olbrich, E. et al. The information theory of individuality. Theory Biosci. 139, 209–223 (2020)
+- Kempes, Christopher P., and David C. Krakauer. "The Multiple Paths to Multiple Life." Journal of Molecular Evolution (2021): 1-12.
 ## Artificial Life
 ## Cultural Evolution
 - Duarte, Miguel Feliciano da Cunha Oliveira. "Gamified Interfaces as a means to motivate exploration and comprehension of Musical Genres." (2020).
@@ -45,6 +47,8 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Sheaf Theory
 # Computer Science
 ## Automata Theory
+- Minsky, Marvin. "Computation: Finite and Infinite Machines Prentice Hall." Inc., Engelwood Cliffs, NJ (1967).
+- Rhodes, John, Chrystopher L. Nehaniv, and Morris W. Hirsch. Applications of automata theory and algebra: via the mathematical theory of complexity to biology, physics, psychology, philosophy, and games. 2010.
 ## Distributed Systems
 ## Machine Learning
 - François Chollet. (2019). On the Measure of Intelligence.
@@ -62,7 +66,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Deutsch, David. "Constructor theory." Synthese 190.18 (2013): 4331-4359.
 - Deutsch, David, and Chiara Marletto. "Constructor theory of information." Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 471.2174 (2015): 20140540.
 # Thermodynamics & Statistical Physics
-- 
+- Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
 # Metatheories
 ## MetaExplanation
 - Wojtowicz, Z., & DeDeo, S. (2020). From Probability to Consilience: How Explanatory Values Implement Bayesian Reasoning. Trends in Cognitive Sciences.
