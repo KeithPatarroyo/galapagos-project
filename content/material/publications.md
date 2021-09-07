@@ -37,4 +37,8 @@ design:
   view: 2
 ---
 
-> **[List of all publications.](https://galapagos.netlify.app/publication)** 
+---
+
+<p style="text-align: center;"><b><a href="https://galapagos.netlify.app/publication">List of all publications.</a></b></p>
+
+---
