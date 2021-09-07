@@ -37,8 +37,3 @@ design:
   view: 2
 ---
 
----
-
-<p style="text-align: center;"><b><a href="https://galapagos.netlify.app/publication">List of all publications.</a></b></p>
-
----
