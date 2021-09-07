@@ -32,3 +32,9 @@ table.center .tg-c3ow{text-align:center;vertical-align:top}
 </thead>
 </table>
 </center>
+
+---
+
+<p style="text-align: center;"><b><a href="https://galapagos.netlify.app/external">List of external material.</a></b></p>
+
+---
