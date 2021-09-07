@@ -37,6 +37,5 @@ design:
   view: 2
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+**[List of all publications.](https://galapagos.netlify.app/publication)**
+
