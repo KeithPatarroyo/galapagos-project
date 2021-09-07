@@ -8,6 +8,8 @@ active: false
 .article-style{font-size: 0.7rem;}
 </style>
 
+
+
 {{% callout note %}} This is a very incomplete page still under development. Send us suggestions in the [contact](https://galapagos.netlify.app/contact/) page. {{% /callout %}}
 Listed here for convenience are publications of which we are aware that may be relevant to build on in developing the Gálapagos Project. This is for published papers and books, or arXiv entries, except under exceptional circumstances.
 
@@ -35,6 +37,10 @@ Listed here for convenience are publications of which we are aware that may be r
 - Youn H, Strumsky D, Bettencourt LMA, Lobo J. 2015 Invention as a combinatorial process: evidence from US patents. J. R. Soc. Interface 12: 20150272
 - Sood, V., Mathieu, M., Shreim, A., Grassberger, P., & Paczuski, M. (2010). Interacting Branching Process as a Simple Model of Innovation. Phys. Rev. Lett., 105, 178701.
 - On singularities and black holes in combination-driven models of technological innovation networks Solé R., Amor D.R. and Valverde S. PLoS One, 11 (1) (2016), p. e0146180
+## Making Machines
+- Gershenfeld, P. N., et al. How To Make Something That Makes (almost) Anything. [MIT MAS.865 2021](https://fab.cba.mit.edu/classes/865.21/).
+- Church,G.,  et al. How To Grow (almost) Anything. [MIT MAS.63 2021](https://fab.cba.mit.edu/classes/S63.21/index.html).
+- Hanrahan,P.,  et al. How To Grow (almost) Anything. [Stanford CS 448M 2019](https://cs448m.github.io/index.html).
 # Biology
 ## Theoretical Biology
 - Krakauer, D., Bertschinger, N., Olbrich, E. et al. The information theory of individuality. Theory Biosci. 139, 209–223 (2020)
@@ -42,6 +48,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
 - Kempes, Christopher P., and David C. Krakauer. "The Multiple Paths to Multiple Life." Journal of Molecular Evolution (2021): 1-12.
 ## Artificial Life
+## Evolution
+-  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – Nature The Great Engineer"](https://www.webofstories.com/play/danny.hillis/184). Web of Stories. Retrieved 07 September 2021.
 ## Cultural Evolution
 - Duarte, Miguel Feliciano da Cunha Oliveira. "Gamified Interfaces as a means to motivate exploration and comprehension of Musical Genres." (2020).
 - Mason Youngblood, Karim Baraghith, & Patrick E. Savage. (2020). Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975-1999).
@@ -53,7 +61,13 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Automata Theory
 - Minsky, Marvin. "Computation: Finite and Infinite Machines Prentice Hall." Inc., Engelwood Cliffs, NJ (1967).
 - Rhodes, John, Chrystopher L. Nehaniv, and Morris W. Hirsch. Applications of automata theory and algebra: via the mathematical theory of complexity to biology, physics, psychology, philosophy, and games. 2010.
+## Programable Matter
+- Gershenfeld, Neil. "Aligning the representation and reality of computation with asynchronous logic automata." Computing 93.2-4 (2011): 91-102.
+- Ghassaei, Amanda Paige. Rapid design and simulation of functional digital materials. Diss. Massachusetts Institute of Technology, 2016.
+- Langford, William Kai. Electronic digital materials. Diss. Massachusetts Institute of Technology, 2014.
+- [Assembled Assemblers](http://cba.mit.edu/projects/dma/assembled_assemblers/index.html)
 ## Distributed Systems
+- L. Lamport (1978), “Time, Clocks, and the Ordering of Events in a Distributed System”, Commun ACM 21, 558–65. doi:10.1145/359545.359563.
 ## Machine Learning
 - François Chollet. (2019). On the Measure of Intelligence.
 - Pascal Friederich, Mario Krenn, Isaac Tamblyn, & Alán Aspuru-Guzik (2021). Scientific intuition inspired by machine learning-generated hypotheses. Machine Learning: Science and Technology, 2(2), 025027.
@@ -61,6 +75,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Gasse, M., Chételat, D., Ferroni, N., Charlin, L., & Lodi, A. (2019). Exact Combinatorial Optimization with Graph Convolutional Neural Networks. In Advances in Neural Information Processing Systems 32.
 - Bengio, Yoshua, Andrea Lodi, and Antoine Prouvost. “Machine learning for combinatorial optimization: a methodological tour d’horizon.” European Journal of Operational Research. 2020.
 - Jacob M. Springer, & Garrett T. Kenyon. (2020). It's Hard for Neural Networks To Learn the Game of Life.
+-  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – How to create an intelligence"](https://www.webofstories.com/play/danny.hillis/189). Web of Stories. Retrieved 07 September 2021.
 - [IMO Grand Challenge](https://imo-grand-challenge.github.io/)
 # Physics
 ## BioPhysics
@@ -69,7 +84,7 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Fundamental Physics
 - Deutsch, David. "Constructor theory." Synthese 190.18 (2013): 4331-4359.
 - Deutsch, David, and Chiara Marletto. "Constructor theory of information." Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 471.2174 (2015): 20140540.
-# Thermodynamics & Statistical Physics
+## Thermodynamics & Statistical Physics
 - Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
 # Metatheories
 ## MetaExplanation
