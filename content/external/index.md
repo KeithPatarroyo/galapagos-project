@@ -6,7 +6,7 @@ active: false
 
 <style type="text/css">
 .article-style{font-size: 0.7rem;}
-div.alert{font-size: 0.7rem;}
+.article-style aside p, div.alert>div{font-size: 0.7rem;}
 </style>
 
 
