@@ -9,13 +9,66 @@ Listed here for convenience are publications of which we are aware that may be r
 
 ---
 # Economics
+- Nagy B, Farmer JD, Bui QM, Trancik JE (2013) Statistical Basis for Predicting Technological Progress.
+- Role of design complexity in technology improvement James McNerney, J. Doyne Farmer, Sidney Redner, Jessika E. Trancik Proceedings of the National Academy of Sciences May 2011, 108 (22) 9008-9013
+- Devine, S. An Economy Viewed as a Far-from-Equilibrium System from the Perspective of Algorithmic Information Theory. Entropy 2018, 20, 228.
+## Development Economics
+- Paul M. Romer, Two Strategies for Economic Development: Using Ideas and Producing Ideas, The World Bank Economic Review, Volume 6, Issue suppl_1, December 1992, Pages 63–91, https://doi.org/10.1093/wber/6.suppl_1.63
 ## Complexity Economics
+- Arthur, W. B. Competing technologies, increasing returns, and lock-in by historical events. Econ. J. 99, 116–131 (1989).
+- Arthur, W. B. Algorithms and the Shift in Modern Science. Beijer Institute Discussion Paper 269 (Swedish Academy Sciences, 2020)
+- Arthur, W. B. The structure of invention. Res. Policy 36, 274–287 (2007).
+- Nature Series. [From economics to physics](https://www.nature.com/collections/egbdijgjae)
+- James McNerney, Charles Savoie, Francesco Caravelli, & J. Doyne Farmer. (2018). How production networks amplify economic growth.
+- Hidalgo, C., Klinger, B., Barabási, A.L., & Hausmann, R. (2007). The Product Space Conditions the Development of Nations. Science, 317(5837), 482–487.
+- Hausmann, R., et al., 2013. The Atlas of Economic Complexity: Mapping Paths to Prosperity 2nd ed., Cambridge: MIT Press
+- Hidalgo, C. 2015. Why Information Grows: The Evolution of Order, from Atoms to Economies, New York: Basic Books.
+# Engineering
+## Inventions
+- Arthur, W. B. The nature of technology. What it is and how it evolves. (Free Press, 2009).
+- Arthur, W. B. & Polak, W. The evolution of technology within a simple computer model. Complexity 11, 23–31 (2006).
+- Ricard V. Solée, Sergi Valverde, Marti Rosas Casals, Stuart A. Kauffman, Doyne Farmer, & Niles Eldredge (2013). The evolutionary ecology of technological innovations. Complexity, 18(4), 15–27.
+- Youn H, Strumsky D, Bettencourt LMA, Lobo J. 2015 Invention as a combinatorial process: evidence from US patents. J. R. Soc. Interface 12: 20150272
+- Sood, V., Mathieu, M., Shreim, A., Grassberger, P., & Paczuski, M. (2010). Interacting Branching Process as a Simple Model of Innovation. Phys. Rev. Lett., 105, 178701.
+- On singularities and black holes in combination-driven models of technological innovation networks Solé R., Amor D.R. and Valverde S. PLoS One, 11 (1) (2016), p. e0146180
 # Biology
 ## Origin of Life
+- Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
+- Krakauer, D., Bertschinger, N., Olbrich, E. et al. The information theory of individuality. Theory Biosci. 139, 209–223 (2020)
 ## Artificial Life
+## Cultural Evolution
+- Duarte, Miguel Feliciano da Cunha Oliveira. "Gamified Interfaces as a means to motivate exploration and comprehension of Musical Genres." (2020).
+- Mason Youngblood, Karim Baraghith, & Patrick E. Savage. (2020). Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975-1999).
 # Mathematics
+- Terence Tao (2015). Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674.
 ## Logic and Foundation of Mathematics
 ## Sheaf Theory
 # Computer Science
 ## Automata Theory
 ## Distributed Systems
+## Machine Learning
+- François Chollet. (2019). On the Measure of Intelligence.
+- Pascal Friederich, Mario Krenn, Isaac Tamblyn, & Alán Aspuru-Guzik (2021). Scientific intuition inspired by machine learning-generated hypotheses. Machine Learning: Science and Technology, 2(2), 025027.
+- Mordvintsev, et al., "Thread: Differentiable Self-organizing Systems", Distill, 2020.
+- Gasse, M., Chételat, D., Ferroni, N., Charlin, L., & Lodi, A. (2019). Exact Combinatorial Optimization with Graph Convolutional Neural Networks. In Advances in Neural Information Processing Systems 32.
+- Bengio, Yoshua, Andrea Lodi, and Antoine Prouvost. “Machine learning for combinatorial optimization: a methodological tour d’horizon.” European Journal of Operational Research. 2020.
+- Jacob M. Springer, & Garrett T. Kenyon. (2020). It's Hard for Neural Networks To Learn the Game of Life.
+- [IMO Grand Challenge](https://imo-grand-challenge.github.io/)
+# Physics
+## BioPhysics
+- Marshall, S. M., Moore, D., Murray, A. R., Walker, S. I., & Cronin, L. (2019). Quantifying the pathways to life using assembly spaces. arXiv preprint arXiv:1907.04649.
+- Marletto, Chiara. "Constructor theory of life." Journal of The Royal Society Interface 12.104 (2015): 20141226.
+## Fundamental Physics
+- Deutsch, David. "Constructor theory." Synthese 190.18 (2013): 4331-4359.
+- Deutsch, David, and Chiara Marletto. "Constructor theory of information." Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 471.2174 (2015): 20140540.
+# Thermodynamics & Statistical Physics
+- 
+# Metatheories
+## MetaExplanation
+- Wojtowicz, Z., & DeDeo, S. (2020). From Probability to Consilience: How Explanatory Values Implement Bayesian Reasoning. Trends in Cognitive Sciences.
+## MetaScience
+- An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, & H. Eugene Stanley (2017). The science of science: From the perspective of complex systems. Physics Reports, 714-715, 1-73.
+- Anastasia Buyalskaya, Marcos Gallo, & Colin F. Camerer (2021). The golden age of social science. Proceedings of the National Academy of Sciences, 118(5), e2002923118.
+- Santo Fortunato, et al. "Science of science". Science 359. 6379(2018).
+- Wang, D., Barabási, A.L. The Science of Science. Cambridge University Press; 1st edition (2021).
+
