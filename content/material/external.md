@@ -14,4 +14,4 @@ subtitle: ''
 
 ---
 
-**[List of external material.](https://galapagos.netlify.app/external)**
+> **[List of external material.](https://galapagos.netlify.app/external)**
