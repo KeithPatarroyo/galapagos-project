@@ -69,6 +69,9 @@ Listed here for convenience are publications of which we are aware that may be r
 - Terence Tao (2015). Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674.
 ## Logic and Foundation of Mathematics
 ## Sheaf Theory
+- Michael Robinson. (2016). Sheaves are the canonical datastructure for sensor integration.
+## Automatic Theorem Proving
+- Carneiro, Mario. "Metamath zero: The cartesian theorem prover." arXiv preprint arXiv:1910.10703 (2019).
 # Computer Science
 ## Automata Theory
 - Minsky, Marvin. "Computation: Finite and Infinite Machines Prentice Hall." Inc., Engelwood Cliffs, NJ (1967).
@@ -81,7 +84,11 @@ Listed here for convenience are publications of which we are aware that may be r
 - Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
 ## Distributed Systems
 - L. Lamport (1978), “Time, Clocks, and the Ordering of Events in a Distributed System”, Commun ACM 21, 558–65. doi:10.1145/359545.359563.
-- 
+- Lamport, Leslie, Robert Shostak, and Marshall Pease. The Byzantine Generals Problem Trans Prog. Lang. Syst. 4, 3 (July 1982), 382-401
+- Pease, Marshall, Robert Shostak, and Leslie Lamport. "Reaching agreement in the presence of faults." Journal of the ACM (JACM) 27.2 (1980): 228-234.
+- Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.
+- Grant Malcolm (2009). Sheaves, Objects, and Distributed Systems. Electronic Notes in Theoretical Computer Science, 225, 3–19.
+- Goguen, J. A. (1992). Sheaf semantics for concurrent interacting objects. Mathematical Structures in Computer Science, 2(2), 159-191.
 ## Machine Learning
 - François Chollet. (2019). On the Measure of Intelligence.
 - Pascal Friederich, Mario Krenn, Isaac Tamblyn, & Alán Aspuru-Guzik (2021). Scientific intuition inspired by machine learning-generated hypotheses. Machine Learning: Science and Technology, 2(2), 025027.
@@ -91,8 +98,9 @@ Listed here for convenience are publications of which we are aware that may be r
 - Jacob M. Springer, & Garrett T. Kenyon. (2020). It's Hard for Neural Networks To Learn the Game of Life.
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – How to create an intelligence"](https://www.webofstories.com/play/danny.hillis/189). Web of Stories. Retrieved 07 September 2021.
 - [IMO Grand Challenge](https://imo-grand-challenge.github.io/)
-## Virus and Self-Replicating Programs
+## Compilers and Self-Replicating Programs
 - Thompson, Ken. "Reflections on trusting trust." ACM Turing award lectures. 2007. 1983.
+- Aho, Alfred V., Ravi Sethi, and Jeffrey D. Ullman. "Compilers, principles, techniques." Addison wesley 7.8 (1986): 9.
 # Physics
 ## BioPhysics
 - Marshall, S. M., Moore, D., Murray, A. R., Walker, S. I., & Cronin, L. (2019). Quantifying the pathways to life using assembly spaces. arXiv preprint arXiv:1907.04649.
