@@ -5,7 +5,7 @@ active: false
 ---
 
 <style type="text/css">
-article-style{font-size: 0.7rem;}
+.article-style{font-size: 0.7rem;}
 </style>
 
 {{% callout note %}} This is a very incomplete page still under development. Send us suggestions in the [contact](https://galapagos.netlify.app/contact/) page. {{% /callout %}}
