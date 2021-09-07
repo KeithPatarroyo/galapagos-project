@@ -14,6 +14,4 @@ subtitle: ''
 
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+List of external [material](https://galapagos.netlify.app/external).
