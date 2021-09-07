@@ -37,5 +37,4 @@ design:
   view: 2
 ---
 
-| **[List of all publications.](https://galapagos.netlify.app/publication)** |
-|-------|
+> **[List of all publications.](https://galapagos.netlify.app/publication)** 
