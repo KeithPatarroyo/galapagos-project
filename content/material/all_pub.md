@@ -14,4 +14,4 @@ subtitle: ''
 
 ---
 
-<p style="margin-top: -100px; text-align: center;"><b><a href="https://galapagos.netlify.app/publication">See all publications.</a></b></p>
+<p style="margin-top: -100px;"><b><a href="https://galapagos.netlify.app/publication">See all publications.</a></b></p>
