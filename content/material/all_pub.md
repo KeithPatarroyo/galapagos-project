@@ -9,9 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 95
 
-title: ''
+title: ' '
 subtitle: ''
 
 ---
 
-<p style="margin-top: -100px;"><b><a href="https://galapagos.netlify.app/publication">See all publications.</a></b></p>
+<p style="margin-top: -100px; "><b><a href="https://galapagos.netlify.app/publication">See all publications.</a></b></p>
+
