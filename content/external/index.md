@@ -61,6 +61,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Randazzo, Ettore, Luca Versari, and Alexander Mordvintsev. "Recursively Fertile Self-replicating Neural Agents." ALIFE 2021: The 2021 Conference on Artificial Life. MIT Press, 2021.
 - Sudhakaran, Shyam, et al. "Growing 3D Artefacts and Functional Machines with Neural Cellular Automata." arXiv preprint arXiv:2103.08737 (2021).
 - Grbic, Djordje, et al. "EvoCraft: A New Challenge for Open-Endedness." EvoApplications. 2021.
+- Chan, Bert Wang-Chak (2020). Lenia and Expanded Universe. Artificial Life Conference Proceedings, (32), 221–229. arXiv:2005.03742.
 ## Evolution
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – Nature The Great Engineer"](https://www.webofstories.com/play/danny.hillis/184). Web of Stories. Retrieved 07 September 2021.
 ## Cultural Evolution
@@ -87,7 +88,9 @@ Listed here for convenience are publications of which we are aware that may be r
 - Buzzard, Kevin, Johan Commelin, and Patrick Massot. "Formalising perfectoid spaces." Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs. 2020. [Project](https://leanprover-community.github.io/lean-perfectoid-spaces/)
 ## Fluid Computation
 - Terence Tao (2015). Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674.
-- 
+- Cardona, Robert, et al. "Constructing Turing complete Euler flows in dimension 3." Proceedings of the National Academy of Sciences 118.19 (2021).
+- Prakash, Manu, and Neil Gershenfeld. "Microfluidic bubble logic." Science 315.5813 (2007): 832-835.
+- Kawaguchi, Takako, Suzuki, Reiji, Arita, Takaya, & Chan, Bert (2021). Introducing asymptotics to the state-updating rule in Lenia. The 2021 Conference on Artificial Life.
 # Computer Science
 ## Cellular Automata
 - Gardner, Martin. The Fantastic Combinations of Jhon Conway's New Solitaire Game "Life." Sc. Am. 223 (1970): 20-123.
