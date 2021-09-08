@@ -13,13 +13,13 @@ address:
   postcode: 
   country: Canada
 
-summary: Interanl Wolfram Physics Colloquium.
+summary: Internal Wolfram Physics Colloquium.
 abstract: "Engineering is the discipline of taking the regularities in the physical or digital world and building useful devices out of them. If we look at technology through the theory of combinatorial evolution, we notice that its evolution is not very different from that of pure mathematics. Since advancements in the Wolfram Model have been used in the construction of the field of empirical Metamathematics, it is natural to extend these results to engineering and attempt to build the field of Meta Engineering. As a crucial first step we consider the Game of Life Cellular Automata; by analyzing and curating its  50+  year  development  we  take  advantage  of  its  great  popularity  and  laboratory  like conditions(isolation and fine-tuning) to distill key elements of innovation and creativity."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-27T16:00:00Z"
-date_end: "2021-05-27T17:00:00Z"
+date: "2021-05-27T14:00:00Z"
+date_end: "2021-05-27T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
