@@ -7,7 +7,7 @@ active: false
 <style type="text/css">
 .article-style{font-size: 0.7rem;}
 .article-style aside p, div.alert>div{font-size: 0.7rem;}
-#TableOfContents li a, .toc-top li a{
+#TableOfContents li ul li a{
     display: block;
     padding: .125rem 1.5rem;
     color: rgb(0 0 0 / 100%);
