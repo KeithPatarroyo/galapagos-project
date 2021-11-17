@@ -15,7 +15,7 @@ In the following post we address a little bit the history of the project and pre
 
 ---
 
-{{.TableOfContents}}
+{{< toc2 >}}
 
 ---
 
