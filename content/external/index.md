@@ -17,7 +17,7 @@ Listed here for convenience are publications of which we are aware that may be r
 
 ---
 
-{{</* toc */>}}
+{{< toc >}}
 
 ---
 # Economics
