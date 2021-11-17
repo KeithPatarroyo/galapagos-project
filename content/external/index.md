@@ -15,6 +15,8 @@ active: false
 {{% callout note %}} This is a very incomplete page still under development. Send us suggestions in the [contact](https://galapagos.netlify.app/contact/) page. {{% /callout %}}
 Listed here for convenience are publications of which we are aware that may be relevant to build on in developing the Gálapagos Project. This is for published papers and books, or arXiv entries, except under exceptional circumstances.
 
+{{</* toc */>}}
+
 ---
 # Economics
 ## Development Economics
