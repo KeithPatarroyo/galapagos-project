@@ -83,6 +83,21 @@ Listed here for convenience are publications of which we are aware that may be r
 - Bokov, Konstantin, and Sergey V. Steinberg. "A hierarchical model for evolution of 23S ribosomal RNA." Nature 457.7232 (2009): 977-980.
 ## Energy Transitions
 - Judson, O. The energy expansions of evolution. Nat Ecol Evol 1, 0138 (2017). https://doi.org/10.1038/s41559-017-0138
+## Biological Computation
+- Hopfield, J. J. "Physics, computation, and why biology looks so different." Journal of Theoretical Biology 171.1 (1994): 53-60.
+- Formal Systems in Biology. P., Pramod. https://github.com/prathyvsh/formal-systems-in-biology
+# Chemistry
+## Chemical Computation 
+- Flumini D., Weyland M.S., Schneider J.J., Fellermann H., Füchslin R.M. (2020) Towards Programmable Chemistries. Artificial Life and Evolutionary Computation. WIVACE 2019. Communications in Computer and Information Science, vol 1200. Springer, Cham. https://doi.org/10.1007/978-3-030-45016-8_15
+- Fontana, Walter, and Leo W. Buss. "The barrier of objects: From dynamical systems to bounded organizations." (1996).
+- Regev, Aviv, and Ehud Shapiro. "The π-calculus as an abstraction for biomolecular systems." Modelling in Molecular Biology. Springer, Berlin, Heidelberg, 2004. 219-266.
+- Buliga, Marius. "Chemical concrete machine." arXiv preprint arXiv:1309.6914 (2013).
+- Angelone, Davide, et al. "Convergence of multiple synthetic paradigms in a universally programmable chemical synthesis machine." Nature Chemistry 13.1 (2021): 63-69.
+- Mehr, S. Hessam M., et al. "A universal system for digitization and automatic execution of the chemical synthesis literature." Science 370.6512 (2020): 101-108.
+- Parrilla-Gutierrez, Juan Manuel, et al. "A programmable chemical computer with memory and pattern recognition." Nature communications 11.1 (2020): 1-8.
+## Chemical Replicators
+- Liu, Yu, and David JT Sumpter. "Mathematical modeling reveals spontaneous emergence of self-replication in chemical reaction systems." Journal of Biological Chemistry 293.49 (2018): 18854-18863.
+- Miras, Haralampos N., et al. "Spontaneous formation of autocatalytic sets with self-replicating inorganic metal oxide clusters." Proceedings of the National Academy of Sciences 117.20 (2020): 10699-10705.
 # Mathematics
 ## Logic and Foundation of Mathematics
 - Kleene, Stephen Cole. "Introduction to metamathematics." (1952).
@@ -92,6 +107,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Michael Robinson. Sheaves are the canonical datastructure for sensor integration (2016).
 - Zalamea, Fernando. Modelos en haces para el pensamiento matemático. Monografía matemático-filosófica.(To Appear), 2020.
 - MacLane, Saunders, and Ieke Moerdijk. Sheaves in geometry and logic: A first introduction to topos theory. Springer Science & Business Media, 2012.
+- Baas, Nils A. "On the philosophy of higher structures." International Journal of General Systems 48.5 (2019): 463-475.
+- Baas, Nils A. "On the mathematics of higher structures." International Journal of General Systems 48.6 (2019): 603-624.
 ## Automatic Theorem Proving
 - Carneiro, Mario. "Metamath zero: The cartesian theorem prover." arXiv preprint arXiv:1910.10703 (2019).
 - Jónathan Heras, & Ekaterina Komendantskaya. HoTT formalisation in Coq: Dependency Graphs & ML4PG (2014).
@@ -160,4 +177,9 @@ Listed here for convenience are publications of which we are aware that may be r
 - Anastasia Buyalskaya, Marcos Gallo, & Colin F. Camerer. The golden age of social science. Proceedings of the National Academy of Sciences, 118(5), e2002923118 (2021).
 - Santo Fortunato, et al. "Science of science". Science 359. 6379 (2018).
 - Wang, D., Barabási, A.L. The Science of Science. Cambridge University Press; 1st edition (2021).
-
+# Philosophy
+## 
+- Bergson, Henri. "Creative Evolution. Humanity’s Natural Creative Impulse." (2012).
+- Todes, Samuel. Body and world. MIT Press, 2001.
+- Rota, Gian-Carlo. Indiscrete thoughts. Springer Science & Business Media, 2008.
+- Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
