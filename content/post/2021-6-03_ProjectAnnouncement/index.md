@@ -15,6 +15,10 @@ In the following post we address a little bit the history of the project and pre
 
 ---
 
+{{.TableOfContents}}
+
+---
+
 ## The Fundamental Observation
 
 This project has four fundamental sources that come all the way back to the summer of 2020. These are: 
