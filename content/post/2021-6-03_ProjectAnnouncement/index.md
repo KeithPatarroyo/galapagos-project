@@ -3,6 +3,13 @@ title: Gálapagos Project Announcement
 date: 2021-07-06
 ---
 
+<style type="text/css">
+.article-style{font-size: 0.7rem;}
+.article-style aside p, div.alert>div{font-size: 0.7rem;}
+#TableOfContents li ul li a{display: block;padding: .125rem 1.5rem;color: rgb(0 0 0 / 65%);font-size: .7rem;}
+#TableOfContents li a{display: block;padding: .125rem 1.5rem;color: rgb(0 0 0 / 100%);font-size: .7rem;}
+</style>
+
 {{< youtube FPNmNUJFslo >}}
 
 In this announcement  we will officially kick off the main two endeavors of the project:
