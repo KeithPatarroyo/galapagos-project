@@ -178,8 +178,14 @@ Listed here for convenience are publications of which we are aware that may be r
 - Santo Fortunato, et al. "Science of science". Science 359. 6379 (2018).
 - Wang, D., Barabási, A.L. The Science of Science. Cambridge University Press; 1st edition (2021).
 # Philosophy
-## 
-- Bergson, Henri. "Creative Evolution. Humanity’s Natural Creative Impulse." (2012).
+## Phenomenology
 - Todes, Samuel. Body and world. MIT Press, 2001.
+## Philosphy of Mathematics
 - Rota, Gian-Carlo. Indiscrete thoughts. Springer Science & Business Media, 2008.
 - Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
+- Corfield, David. Towards a philosophy of real mathematics. Cambridge University Press, 2003.
+- Dudley, Underwood. Mathematical cranks. Vol. 4. American Mathematical Soc., 2019.
+## Phiosophy of Biology
+- Bergson, Henri. "Creative Evolution. Humanity’s Natural Creative Impulse." (2012).
+- Pence, C. (2021). The Causal Structure of Natural Selection (Elements in the Philosophy of Biology). Cambridge: Cambridge University Press. doi:10.1017/9781108680691
+
