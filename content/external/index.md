@@ -180,12 +180,12 @@ Listed here for convenience are publications of which we are aware that may be r
 # Philosophy
 ## Phenomenology
 - Todes, Samuel. Body and world. MIT Press, 2001.
-## Philosphy of Mathematics
+## Philosophy of Mathematics
 - Rota, Gian-Carlo. Indiscrete thoughts. Springer Science & Business Media, 2008.
 - Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
 - Corfield, David. Towards a philosophy of real mathematics. Cambridge University Press, 2003.
 - Dudley, Underwood. Mathematical cranks. Vol. 4. American Mathematical Soc., 2019.
-## Phiosophy of Biology
+## Philosophy of Biology
 - Bergson, Henri. "Creative Evolution. Humanity’s Natural Creative Impulse." (2012).
 - Pence, C. (2021). The Causal Structure of Natural Selection (Elements in the Philosophy of Biology). Cambridge: Cambridge University Press. doi:10.1017/9781108680691
 
