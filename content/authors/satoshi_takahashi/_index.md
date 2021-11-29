@@ -1,5 +1,5 @@
 ---
-title: Satoshi Takahashi(高橋聡)
+title: Satoshi Takahashi (高橋聡)
 role: Engineer working on Chemical Computers and the Origins of Life
 avatar_filename: avatar.jpg
 bio: Trying to re-create the Origins of Life using Chemical Computation and Robotics.
