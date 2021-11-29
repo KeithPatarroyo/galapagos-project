@@ -1,6 +1,6 @@
 ---
 title: Keith Y. Patarroyo
-role: Researcher on Computer Graphics
+role: Researcher on Computer Graphics and Digital Fabrication
 avatar_filename: avatar.jpg
 bio: My research interests include Hierarchical Assembly, Computational Design and Digital Fabrication.
 interests:
