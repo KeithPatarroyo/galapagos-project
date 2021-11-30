@@ -95,7 +95,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Angelone, Davide, et al. "Convergence of multiple synthetic paradigms in a universally programmable chemical synthesis machine." Nature Chemistry 13.1 (2021): 63-69.
 - Mehr, S. Hessam M., et al. "A universal system for digitization and automatic execution of the chemical synthesis literature." Science 370.6512 (2020): 101-108.
 - Parrilla-Gutierrez, Juan Manuel, et al. "A programmable chemical computer with memory and pattern recognition." Nature communications 11.1 (2020): 1-8.
-- Goucher, J.P. Hex13. GPU-based artificial chemistry simulator.https://gitlab.com/apgoucher/hex13
+- Goucher, J.P. Hex13, a GPU-based artificial chemistry simulator.https://gitlab.com/apgoucher/hex13
 ## Chemical Replicators
 - Liu, Yu, and David JT Sumpter. "Mathematical modeling reveals spontaneous emergence of self-replication in chemical reaction systems." Journal of Biological Chemistry 293.49 (2018): 18854-18863.
 - Miras, Haralampos N., et al. "Spontaneous formation of autocatalytic sets with self-replicating inorganic metal oxide clusters." Proceedings of the National Academy of Sciences 117.20 (2020): 10699-10705.
