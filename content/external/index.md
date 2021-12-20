@@ -58,6 +58,7 @@ Listed here for convenience are publications of which we are aware that may be r
 # Biology
 ## Theoretical Biology
 - Krakauer, D., Bertschinger, N., Olbrich, E. et al. The information theory of individuality. Theory Biosci. 139, 209–223 (2020)
+- Maimon, Ron. "Computational Theory of Biological Function I." arXiv preprint q-bio/0503028 (2005).
 ## Origin of Life
 - Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
 - Kempes, Christopher P., and David C. Krakauer. "The Multiple Paths to Multiple Life." Journal of Molecular Evolution (2021): 1-12.
@@ -70,6 +71,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Sudhakaran, Shyam, et al. "Growing 3D Artefacts and Functional Machines with Neural Cellular Automata." arXiv preprint arXiv:2103.08737 (2021).
 - Grbic, Djordje, et al. "EvoCraft: A New Challenge for Open-Endedness." EvoApplications. 2021.
 - Chan, Bert Wang-Chak. Lenia and Expanded Universe. Artificial Life Conference Proceedings, (32), 221–229. arXiv:2005.03742 (2020).
+- David H. Ackley, & Trent R. Small (2014). Indefinitely Scalable Computing = Artificial Life Engineering. In Proceedings of The Fourteenth International Conference on the Synthesis and Simulation of Living Systems (ALIFE 14) 2014 (pp. 606–613). MIT Press.
 ## Evolution
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – Nature The Great Engineer"](https://www.webofstories.com/play/danny.hillis/184). Web of Stories. Retrieved 07 September 2021.
 ## Cultural Evolution
@@ -99,6 +101,9 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Chemical Replicators
 - Liu, Yu, and David JT Sumpter. "Mathematical modeling reveals spontaneous emergence of self-replication in chemical reaction systems." Journal of Biological Chemistry 293.49 (2018): 18854-18863.
 - Miras, Haralampos N., et al. "Spontaneous formation of autocatalytic sets with self-replicating inorganic metal oxide clusters." Proceedings of the National Academy of Sciences 117.20 (2020): 10699-10705.
+## Digital Chemistry
+- Emeral Cloud Lab.(2016-2021).https://www.emeraldcloudlab.com/
+- Gromski, Piotr S., Jarosław M. Granda, and Leroy Cronin. "Universal chemical synthesis and discovery with ‘the chemputer’." Trends in Chemistry 2.1 (2020): 4-12.
 # Mathematics
 ## Logic and Foundation of Mathematics
 - Kleene, Stephen Cole. "Introduction to metamathematics." (1952).
@@ -129,6 +134,11 @@ Listed here for convenience are publications of which we are aware that may be r
 - Neumann, János, and Arthur W. Burks. Theory of self-reproducing automata. Vol. 1102024. Urbana: University of Illinois press, 1966.
 - Minsky, Marvin. "Computation: Finite and Infinite Machines Prentice Hall." Inc., Engelwood Cliffs, NJ (1967).
 - Rhodes, John, Chrystopher L. Nehaniv, and Morris W. Hirsch. Applications of automata theory and algebra: via the mathematical theory of complexity to biology, physics, psychology, philosophy, and games. 2010.
+## Stochastic Computation
+- David H. Ackley, & Daniel C. Cannon (2011). Pursue Robust Indefinite Scalability. In Proc. HotOS XIII. USENIX Association.
+- Alaghi, Armin, and John P. Hayes. "Survey of stochastic computing." ACM Transactions on Embedded computing systems (TECS) 12.2s (2013): 1-19.
+- Von Neumann, John. "Probabilistic logics and the synthesis of reliable organisms from unreliable components." Automata Studies.(AM-34), Volume 34. Princeton University Press, 2016. 43-98.
+- David H. Ackley. The T2 Tile Project. https://t2tile.com/
 ## Programable Matter
 - Gershenfeld, Neil. "Aligning the representation and reality of computation with asynchronous logic automata." Computing 93.2-4 (2011): 91-102.
 - Ghassaei, Amanda Paige. Rapid design and simulation of functional digital materials. Diss. Massachusetts Institute of Technology, 2016.
@@ -166,6 +176,7 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Thermodynamics & Statistical Physics
 - Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
 - Flack Jessica C. Coarse-graining as a downward causation mechanism. Phil. Trans. R. Soc. (2017) A.3752016033820160338
+- Chiara Marletto. (2017). Constructor Theory of Thermodynamics. https://arxiv.org/abs/1608.02625
 # Metatheories
 ## MetaExplanation
 - Wojtowicz, Z., & DeDeo, S. From Probability to Consilience: How Explanatory Values Implement Bayesian Reasoning. Trends in Cognitive Sciences (2020).
@@ -181,6 +192,7 @@ Listed here for convenience are publications of which we are aware that may be r
 # Philosophy
 ## Phenomenology
 - Todes, Samuel. Body and world. MIT Press, 2001.
+- 
 ## Philosophy of Mathematics
 - Rota, Gian-Carlo. Indiscrete thoughts. Springer Science & Business Media, 2008.
 - Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
