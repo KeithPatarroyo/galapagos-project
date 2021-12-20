@@ -63,6 +63,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
 - Kempes, Christopher P., and David C. Krakauer. "The Multiple Paths to Multiple Life." Journal of Molecular Evolution (2021): 1-12.
 - Smith, E., & Morowitz, H. J. The origin and nature of life on earth: the emergence of the fourth geosphere. Cambridge University Press (2016).
+- Pattee, Howard H. "The physical basis of coding and reliability in biological evolution." The Origin of Life. Routledge, 2017. 67-93.
 ## Artificial Life
 - Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
 - Webster, Matt, and Grant Malcolm. "Hierarchical Components and Entity-based Modelling in Artificial Life." ALIFE. 2008.
@@ -88,6 +89,9 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Biological Computation
 - Hopfield, J. J. "Physics, computation, and why biology looks so different." Journal of Theoretical Biology 171.1 (1994): 53-60.
 - Formal Systems in Biology. P., Pramod. https://github.com/prathyvsh/formal-systems-in-biology
+## Biological Complex Systems
+- Simon, H. A., and Howard H. Pattee. "Hierarchy theory: The challenge of complex systems." Hierarchy Theory: The Challenge of Complex Systems 1 (1973).
+- Flack, J. (2017). Life's Information Hierarchy. In S. Walker, P. Davies, & G. Ellis (Eds.), From Matter to Life: Information and Causality (pp. 283-302). Cambridge: Cambridge University Press. doi:10.1017/9781316584200.012
 # Chemistry
 ## Chemical Computation 
 - Flumini D., Weyland M.S., Schneider J.J., Fellermann H., Füchslin R.M. (2020) Towards Programmable Chemistries. Artificial Life and Evolutionary Computation. WIVACE 2019. Communications in Computer and Information Science, vol 1200. Springer, Cham. https://doi.org/10.1007/978-3-030-45016-8_15
@@ -108,6 +112,7 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Logic and Foundation of Mathematics
 - Kleene, Stephen Cole. "Introduction to metamathematics." (1952).
 - Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
+- Stillwell, J. (2018). Reverse mathematics. Princeton University Press.
 ## Sheaf Theory
 - Bredon, Glen E. Sheaf theory. Vol. 170. Springer Science & Business Media, 2012.
 - Michael Robinson. Sheaves are the canonical datastructure for sensor integration (2016).
@@ -115,6 +120,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - MacLane, Saunders, and Ieke Moerdijk. Sheaves in geometry and logic: A first introduction to topos theory. Springer Science & Business Media, 2012.
 - Baas, Nils A. "On the philosophy of higher structures." International Journal of General Systems 48.5 (2019): 463-475.
 - Baas, Nils A. "On the mathematics of higher structures." International Journal of General Systems 48.6 (2019): 603-624.
+- Caramello, Olivia. "The unification of mathematics via topos theory." arXiv preprint arXiv:1006.3930 (2010).
 ## Automatic Theorem Proving
 - Carneiro, Mario. "Metamath zero: The cartesian theorem prover." arXiv preprint arXiv:1910.10703 (2019).
 - Jónathan Heras, & Ekaterina Komendantskaya. HoTT formalisation in Coq: Dependency Graphs & ML4PG (2014).
@@ -145,6 +151,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Langford, William Kai. Electronic digital materials. Diss. Massachusetts Institute of Technology, 2014.
 - [Assembled Assemblers](http://cba.mit.edu/projects/dma/assembled_assemblers/index.html)
 - Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
+- Jensen, Johannes Høydahl. "Reservoir computing in-materio: Emergence and control in unstructured and structured materials." (2021).
 ## Distributed Systems
 - L. Lamport, “Time, Clocks, and the Ordering of Events in a Distributed System”, Commun ACM 21, 558–65, (1978). doi:10.1145/359545.359563.
 - Lamport, Leslie, Robert Shostak, and Marshall Pease. The Byzantine Generals Problem Trans Prog. Lang. Syst. 4, 3 (July 1982), 382-401
@@ -183,6 +190,7 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Empirical MetaMathematics
 - MacLane, Saunders. Mathematics form and function. Springer Science & Business Media, 2012.
 - Wolfram,S. The Empirical Metamathematics of Euclid and Beyond, 2020. Available at https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
+- Wolfram,S. Multicomputation with Numbers: The Case of Simple Multiway Systems, 2021. Available at https://www.wolframphysics.org/bulletins/2021/10/multicomputation-with-numbers-the-case-of-simple-multiway-systems/
 - Viteri, Scott, and Simon DeDeo. "Explosive proofs of mathematical truths." arXiv preprint arXiv:2004.00055 (2020).
 ## Empirical MetaScience
 - An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, & H. Eugene Stanley. The science of science: From the perspective of complex systems. Physics Reports, 714-715, 1-73 (2017).
@@ -192,7 +200,7 @@ Listed here for convenience are publications of which we are aware that may be r
 # Philosophy
 ## Phenomenology
 - Todes, Samuel. Body and world. MIT Press, 2001.
-- 
+- Lakoff, George, and Rafael Núñez. Where mathematics comes from. Vol. 6. New York: Basic Books, 2000.
 ## Philosophy of Mathematics
 - Rota, Gian-Carlo. Indiscrete thoughts. Springer Science & Business Media, 2008.
 - Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
