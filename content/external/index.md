@@ -177,7 +177,6 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Formal Verification
 - Camilleri, Albert, Mike Gordon, and Tom Melham. Hardware verification using higher-order logic. No. UCAM-CL-TR-91. University of Cambridge, Computer Laboratory, 1986.
 - Aagaard, Mark D., et al. "A methodology for large-scale hardware verification." International Conference on Formal Methods in Computer-Aided Design. Springer, Berlin, Heidelberg, 2000.
-- 
 # Physics
 ## BioPhysics
 - Marshall, S. M., Moore, D., Murray, A. R., Walker, S. I., & Cronin, L. Quantifying the pathways to life using assembly spaces. (2019) arXiv preprint arXiv:1907.04649.
