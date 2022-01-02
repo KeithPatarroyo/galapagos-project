@@ -108,6 +108,8 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Digital Chemistry
 - Emeral Cloud Lab.(2016-2021).https://www.emeraldcloudlab.com/
 - Gromski, Piotr S., Jarosław M. Granda, and Leroy Cronin. "Universal chemical synthesis and discovery with ‘the chemputer’." Trends in Chemistry 2.1 (2020): 4-12.
+## Automatic Synthesis
+- Yadav, Maneesh K. "On the synthesis of machine learning and automated reasoning for an artificial synthetic organic chemist." New Journal of Chemistry 41.4 (2017): 1411-1416.
 # Mathematics
 ## Logic and Foundation of Mathematics
 - Kleene, Stephen Cole. "Introduction to metamathematics." (1952).
@@ -172,6 +174,10 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Compilers and Self-Replicating Programs
 - Thompson, Ken. "Reflections on trusting trust." ACM Turing award lectures. 2007. 1983.
 - Aho, Alfred V., Ravi Sethi, and Jeffrey D. Ullman. "Compilers, principles, techniques." Addison wesley 7.8 (1986): 9.
+## Formal Verification
+- Camilleri, Albert, Mike Gordon, and Tom Melham. Hardware verification using higher-order logic. No. UCAM-CL-TR-91. University of Cambridge, Computer Laboratory, 1986.
+- Aagaard, Mark D., et al. "A methodology for large-scale hardware verification." International Conference on Formal Methods in Computer-Aided Design. Springer, Berlin, Heidelberg, 2000.
+- 
 # Physics
 ## BioPhysics
 - Marshall, S. M., Moore, D., Murray, A. R., Walker, S. I., & Cronin, L. Quantifying the pathways to life using assembly spaces. (2019) arXiv preprint arXiv:1907.04649.
