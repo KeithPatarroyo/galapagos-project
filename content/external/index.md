@@ -76,6 +76,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - David H. Ackley, & Trent R. Small (2014). Indefinitely Scalable Computing = Artificial Life Engineering. In Proceedings of The Fourteenth International Conference on the Synthesis and Simulation of Living Systems (ALIFE 14) 2014 (pp. 606–613). MIT Press.
 ## Evolution
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – Nature The Great Engineer"](https://www.webofstories.com/play/danny.hillis/184). Web of Stories. Retrieved 07 September 2021.
+-  Shubin, Neil, Cliff Tabin, and Sean Carroll. "Deep homology and the origins of evolutionary novelty." Nature 457.7231 (2009): 818-823.
 ## Cultural Evolution
 - Duarte, Miguel Feliciano da Cunha Oliveira. "Gamified Interfaces as a means to motivate exploration and comprehension of Musical Genres." (2020).
 - Youngblood, Mason, Karim Baraghith, and Patrick E. Savage. "Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975–1999)." Evolution and Human Behavior (2021).
