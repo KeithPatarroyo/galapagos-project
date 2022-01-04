@@ -49,6 +49,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Ricard V. Solée, Sergi Valverde, Marti Rosas Casals, Stuart A. Kauffman, Doyne Farmer, & Niles Eldredge. The evolutionary ecology of technological innovations. (2013) Complexity, 18(4), 15–27.
 - Youn H, Strumsky D, Bettencourt LMA, Lobo J. Invention as a combinatorial process: evidence from US patents. J. R. Soc. Interface 12: 20150272 (2015).
 - Sood, V., Mathieu, M., Shreim, A., Grassberger, P., & Paczuski, M. Interacting Branching Process as a Simple Model of Innovation. Phys. Rev. Lett., 105, 178701 (2010).
+- Valverde, Sergi, and Ricard V. Solé. "Punctuated equilibrium in the large-scale evolution of programming languages." Journal of The Royal Society Interface 12.107 (2015): 20150249.
 - Solé R., Amor D.R. and Valverde S. On singularities and black holes in combination-driven models of technological innovation networks. PLoS One, 11 (1) (2016), p. e0146180
 - Solé Ricard and Valverde Sergi. Evolving complexity: how tinkering shapes cells, software and ecological networks. Phil. Trans. R. Soc. (2020) B3752019032520190325 http://doi.org/10.1098/rstb.2019.0325 (Preprint: https://arxiv.org/pdf/1907.05528.pdf)
 ## Making Machines
@@ -92,6 +93,13 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Biological Complex Systems
 - Simon, H. A., and Howard H. Pattee. "Hierarchy theory: The challenge of complex systems." Hierarchy Theory: The Challenge of Complex Systems 1 (1973).
 - Flack, J. (2017). Life's Information Hierarchy. In S. Walker, P. Davies, & G. Ellis (Eds.), From Matter to Life: Information and Causality (pp. 283-302). Cambridge: Cambridge University Press. doi:10.1017/9781316584200.012
+## Autopoesis
+- Levin, Michael. "The computational boundary of a “self”: developmental bioelectricity drives multicellularity and scale-free cognition." Frontiers in psychology 10 (2019): 2688.
+- Beer, Randall D. "Bittorio revisited: structural coupling in the Game of Life." Adaptive Behavior 28.4 (2020): 197-212.
+- Beer, Randall D. "On the origin of gliders." ALIFE 2018: The 2018 Conference on Artificial Life. MIT Press, 2018.
+- Beer, Randall D. "Characterizing autopoiesis in the game of life." Artificial Life 21.1 (2015): 1-19.
+- Beer, Randall D. "The cognitive domain of a glider in the game of life." Artificial life 20.2 (2014): 183-206.
+- Beer, Randall D. "Autopoiesis and cognition in the game of life." Artificial Life 10.3 (2004): 309-326.
 # Chemistry
 ## Chemical Computation 
 - Flumini D., Weyland M.S., Schneider J.J., Fellermann H., Füchslin R.M. (2020) Towards Programmable Chemistries. Artificial Life and Evolutionary Computation. WIVACE 2019. Communications in Computer and Information Science, vol 1200. Springer, Cham. https://doi.org/10.1007/978-3-030-45016-8_15
@@ -171,6 +179,8 @@ Listed here for convenience are publications of which we are aware that may be r
 -  Hillis, W. Daniel; Christopher Sykes; George Dyson (October 2016). ["Web of Stories – W Daniel Hillis – How to create an intelligence"](https://www.webofstories.com/play/danny.hillis/189). Web of Stories. Retrieved 07 September 2021.
 - [IMO Grand Challenge](https://imo-grand-challenge.github.io/)
 - Tishby, N.; Zaslavsky, N. Deep learning, and the information bottleneck principle. In Proceedings of the 2015 IEEE Information Theory Workshop (ITW), Jerusalem, Israel, 26 April–1 May 2015; pp. 1–5.
+- Ha, David, and Yujin Tang. "Collective Intelligence for Deep Learning: A Survey of Recent Developments." arXiv preprint arXiv:2111.14377 (2021).
+- Risi, S. The Future of Artificial Intelligence is Self-Organizing and Self-Assembling. https://sebastianrisi.com/self_assembling_ai/
 ## Compilers and Self-Replicating Programs
 - Thompson, Ken. "Reflections on trusting trust." ACM Turing award lectures. 2007. 1983.
 - Aho, Alfred V., Ravi Sethi, and Jeffrey D. Ullman. "Compilers, principles, techniques." Addison wesley 7.8 (1986): 9.
