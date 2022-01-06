@@ -29,7 +29,7 @@ featured: false
 
 links:
 
-url_pdf: 'https://galapagos.netlify.app/publication/ron_maimon_biology/Ron_Recollected_Posts.pdf'
+url_pdf: 'https://galapagos.netlify.app/publication/intelligence_class/Intelligence_as_Life_keith_patarroyo.pdf'
 url_code: '' 
 url_dataset: ''
 url_poster: ''
