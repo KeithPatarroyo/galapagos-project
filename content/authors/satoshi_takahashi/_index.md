@@ -19,7 +19,7 @@ social:
     icon_pack: fas
     link: 
 organizations:
-  - name: Université de Montréal
+  - name: University of Glasgow
     url: ""
 education:
   courses:
