@@ -1,12 +1,15 @@
 ---
 title: Keith Y. Patarroyo
-role: Researcher on Computer Graphics and Digital Fabrication
+role: Researcher Engineer on Artificial Life, Digital Chemistry and Unconventional Computation
 avatar_filename: avatar.jpg
-bio: My research interests include Hierarchical Assembly, Computational Design and Digital Fabrication.
+bio: My research interests include Hierarchical Assembly, Artificial Life and Material Computation.
 interests:
   - Hierarchical Assembly
+  - Digital Chemistry
   - Computational Design
-  - Digital Fabrication
+  - Artificial Life
+  - Formal Verification
+  - Distributed Systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +27,10 @@ social:
     icon_pack: fas
     link: https://keithpatarroyo.netlify.app/
 organizations:
-  - name: Université de Montréal
-    url: ""
+  - name: Chemify
+    url: "https://www.chemify.io/"
+  - name: Univerity of Glasgow
+    url: "http://www.chem.gla.ac.uk/cronin/"
 education:
   courses:
     - course: MSc in Computer Science
@@ -40,6 +45,6 @@ user_groups:
   - Principal Investigators
 highlight_name: false
 ---
-Keith Patarroyo is a M.Sc. student in Computer Science at the [Computational Design Group](http://www-labs.iro.umontreal.ca/~bernhard/) from the Université de Montréal. He works on the modeling of slender mechanical structures under the supervision of [Bernhard Thomaszewski](http://www-labs.iro.umontreal.ca/~bernhard/bernhard.html). He is  also a member of [LIGUM](http://www.ligum.umontreal.ca/)(Laboratoire d’Informatique Graphique de l’Université de Montréal) and a Research Affiliate of the [Wolfram Physics Project](https://www.wolframphysics.org/).
+Keith Patarroyo obtained his M.Sc. in Computer Science at the [Computational Design Group](http://www-labs.iro.umontreal.ca/~bernhard/) from the Université de Montréal. He currently works as a developer in [Chemify](https://www.chemify.io/) and as a research engineer at the [Cronin Group](http://www.chem.gla.ac.uk/cronin/) from the University of Glasgow. He is He is  also a Research Affiliate of the [Wolfram Physics Project](https://www.wolframphysics.org/).
 
 A short description of his training, he was drawn to continuous and discrete (Fluid Dynamics and Kinetic Theory) by [J. Muñoz](http://ciencias.bogota.unal.edu.co/departamentos/departamento-de-fisica/docentes/?tx_unaldirectorio_contactlist%5Bperson%5D=48&tx_unaldirectorio_contactlist%5Baction%5D=show&tx_unaldirectorio_contactlist%5Bcontroller%5D=Person&cHash=f59e499450f9a880d323d63e79545e5c), taught FEM by [J. Galvis](https://sites.google.com/view/jgalvis/home), DG-FEM by [X. Zhang(张翔雄)](http://www.math.purdue.edu/~zhan1966/), Lattice Boltzmann by [M. Mendoza](http://www.ifb.ethz.ch/comphys/people/senior-scientists/miller-mendoza-jimenez.html), Discrete Dif. Geometry by [M. Bessmeltsev(Бессмельцев)](http://www-labs.iro.umontreal.ca/~bmpix/), Complex Systems Theory by [Stephen Wolfram](https://www.stephenwolfram.com/), inter alia.
