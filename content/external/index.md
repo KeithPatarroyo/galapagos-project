@@ -60,6 +60,8 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Theoretical Biology
 - Krakauer, D., Bertschinger, N., Olbrich, E. et al. The information theory of individuality. Theory Biosci. 139, 209–223 (2020)
 - Maimon, Ron. "Computational Theory of Biological Function I." arXiv preprint q-bio/0503028 (2005).
+- Rosas FE, Mediano PAM, Jensen HJ, Seth AK, Barrett AB, Carhart-Harris RL, et al. (2020) Reconciling emergences: An information-theoretic approach to identify causal emergence in multivariate data. PLoS Comput Biol 16(12): e1008289. https://doi.org/10.1371/journal.pcbi.1008289
+- Mediano, Pedro AM, et al. "Greater than the parts: A review of the information decomposition approach to causal emergence." arXiv preprint arXiv:2111.06518 (2021).
 ## Origin of Life
 - Marshall, Stuart M., et al. "Identifying molecules as biosignatures with assembly theory and mass spectrometry." Nature communications 12.1 (2021): 1-9.
 - Kempes, Christopher P., and David C. Krakauer. "The Multiple Paths to Multiple Life." Journal of Molecular Evolution (2021): 1-12.
@@ -101,6 +103,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Beer, Randall D. "Characterizing autopoiesis in the game of life." Artificial Life 21.1 (2015): 1-19.
 - Beer, Randall D. "The cognitive domain of a glider in the game of life." Artificial life 20.2 (2014): 183-206.
 - Beer, Randall D. "Autopoiesis and cognition in the game of life." Artificial Life 10.3 (2004): 309-326.
+## Computational Complexity
+- Artem Kaznatcheev, Computational Complexity as an Ultimate Constraint on Evolution, Genetics, Volume 212, Issue 1, 1 May 2019, Pages 245–265, https://doi.org/10.1534/genetics.119.302000
 # Chemistry
 ## Chemical Computation 
 - Flumini D., Weyland M.S., Schneider J.J., Fellermann H., Füchslin R.M. (2020) Towards Programmable Chemistries. Artificial Life and Evolutionary Computation. WIVACE 2019. Communications in Computer and Information Science, vol 1200. Springer, Cham. https://doi.org/10.1007/978-3-030-45016-8_15
@@ -145,8 +149,9 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Cellular Automata
 - Gardner, Martin. The Fantastic Combinations of Jhon Conway's New Solitaire Game "Life." Sc. Am. 223 (1970): 20-123.
 - Berlekamp, Elwyn R., John H. Conway, and Richard K. Guy. Winning ways for your mathematical plays, volume 4. AK Peters/CRC Press, 2004.
-- Wolfram, Stephen. A new kind of science. Vol. 5. Champaign, IL: Wolfram media, 2002.
+- Wolfram, Stephen. A new kind of science. Vol. 5. Champaign, IL: Wolfram media, 2002. 
 - Adamatzky, A. (ed.), Game of life cellular automata. Springer, 2010.
+- Johnston, N., Greene, D. Conway's Game of Life Mathematics and Construction.  Lulu.com (self-published), 2022. Avaiable at: https://conwaylife.com/book/
 ## Automata Theory
 - Neumann, János, and Arthur W. Burks. Theory of self-reproducing automata. Vol. 1102024. Urbana: University of Illinois press, 1966.
 - Minsky, Marvin. "Computation: Finite and Infinite Machines Prentice Hall." Inc., Engelwood Cliffs, NJ (1967).
@@ -200,6 +205,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
 - Flack Jessica C. Coarse-graining as a downward causation mechanism. Phil. Trans. R. Soc. (2017) A.3752016033820160338
 - Chiara Marletto. (2017). Constructor Theory of Thermodynamics. https://arxiv.org/abs/1608.02625
+## Computational Complexity
+- Mark Braverman, Jonathan Schneider, and Cristóbal Rojas. "Space-Bounded Church-Turing Thesis and Computational Tractability of Closed Systems." Physical Review Letters. DOI: 10.1103/PhysRevLett.115.098701
 # Metatheories
 ## MetaExplanation
 - Wojtowicz, Z., & DeDeo, S. From Probability to Consilience: How Explanatory Values Implement Bayesian Reasoning. Trends in Cognitive Sciences (2020).
