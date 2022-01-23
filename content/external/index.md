@@ -140,6 +140,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Carneiro, Mario. "Metamath zero: The cartesian theorem prover." arXiv preprint arXiv:1910.10703 (2019).
 - Jónathan Heras, & Ekaterina Komendantskaya. HoTT formalisation in Coq: Dependency Graphs & ML4PG (2014).
 - Buzzard, Kevin, Johan Commelin, and Patrick Massot. "Formalising perfectoid spaces." Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs. 2020. [Project](https://leanprover-community.github.io/lean-perfectoid-spaces/)
+- Jeremy Avigad. (2021). The design of mathematical language. Available at: http://philsci-archive.pitt.edu/19508/
 ## Fluid Computation
 - Terence Tao. Finite time blowup for an averaged three-dimensional Navier-Stokes equation. Journal of the American Mathematical Society, 29(3), 601–674 (2015).
 - Cardona, Robert, et al. "Constructing Turing complete Euler flows in dimension 3." Proceedings of the National Academy of Sciences 118.19 (2021).
@@ -232,4 +233,4 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Philosophy of Biology
 - Bergson, Henri. "Creative Evolution. Humanity’s Natural Creative Impulse." (2012).
 - Pence, C. (2021). The Causal Structure of Natural Selection (Elements in the Philosophy of Biology). Cambridge: Cambridge University Press. doi:10.1017/9781108680691
-
+- Dupré, John. The Metaphysics of Biology. Cambridge University Press, 2021.
