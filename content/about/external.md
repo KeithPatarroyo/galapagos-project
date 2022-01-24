@@ -10,12 +10,7 @@ headless: true
 weight: 100
 
 title: Research Topics
-subtitle: 'Life, Evolution & Technology'
+subtitle: ''
 
 ---
 
----
-
-<p style="text-align: center;"><b><a href="https://galapagos.netlify.app/external">List of external material.</a></b></p>
-
----
