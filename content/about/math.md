@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 110
 
-title: ''
-subtitle: 'Foundations of mathematics & Formal Verification and Automated Reasoning'
+title: 'Foundations of mathematics & Formal Verification and Automated Reasoning'
+subtitle: ''
 
 ---
 
