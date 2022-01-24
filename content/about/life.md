@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 105
 
-title: '.'
+title: '1.'
 subtitle: 'Life, Evolution & Technology'
 
 ---
