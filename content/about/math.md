@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 110
 
 title: ''
-subtitle: 'Foundations of mathematics'
+subtitle: 'Foundations of mathematics & Formal Verification and Automated Reasoning'
 
 ---
 
