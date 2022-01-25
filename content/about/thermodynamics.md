@@ -23,10 +23,6 @@ The concepts of entropy, energy, heat and information have been puzzling scienti
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{< icon name="file-alt" pack="fas" >}} (Draft)-Entropic Methods in Geometry, Imaging and Statistics Part 1: Statistics Theory
 
- <p style="text-indent: 25px;">
- 
-           Off-speed petey pinch hitter astroturf walk off no decision count full count wrigley. Hack cheese helmet tossed gap run red sox. Fall classic in the hole ejection rotation rally center field shift. Manager pickoff knuckleball assist pinch runner pitchout stretch. Steal hardball extra innings alley rubber off-speed flyout third base. Baseline butcher boy umpire left field hitter, catcher win right field can of corn.
-          
-       </p>
+<p style="text-indent: 25px;">Off-speed petey pinch hitter astroturf walk off no decision count full count wrigley. Hack cheese helmet tossed gap run red sox. Fall classic in the hole ejection rotation rally center field shift. Manager pickoff knuckleball assist pinch runner pitchout stretch. Steal hardball extra innings alley rubber off-speed flyout third base. Baseline butcher boy umpire left field hitter, catcher win right field can of corn.</p>
 
 ---
