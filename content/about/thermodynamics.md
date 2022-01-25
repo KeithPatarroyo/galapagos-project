@@ -20,6 +20,7 @@ The concepts of entropy, energy, heat and information have been puzzling scienti
 
 - An effort in this line of inquiry is directed towards the formulation of the thermodynamics of universal constructors, and its consequences for the nature of computation, biology and time.
 - Another line of effort is to use the frameworks of description for thermodynamics for connection with other fields, like symplectic geometry, Information Geometry, and use it for appliactions in imaging and statistics.
+
 {{< icon name="file-alt" pack="fas" >}} (Draft)-Entropic Methods in Geometry, Imaging and Statistics Part 1: Statistics Theory
 
 
