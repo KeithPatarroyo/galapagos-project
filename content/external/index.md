@@ -206,6 +206,16 @@ Listed here for convenience are publications of which we are aware that may be r
 - Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
 - Flack Jessica C. Coarse-graining as a downward causation mechanism. Phil. Trans. R. Soc. (2017) A.3752016033820160338
 - Chiara Marletto. (2017). Constructor Theory of Thermodynamics. https://arxiv.org/abs/1608.02625
+- Mandelbrot, Benoit. "On the derivation of statistical thermodynamics from purely phenomenological principles." Journal of Mathematical Physics 5.2 (1964): 164-171.
+- L. Szilard, "Uber die ausdehnung der phenomenologischen thermodynamik auf der schwankungserscheinungen", Z. Physik, vol. 32, pp. 753, 1925.
+- B. Mandelbrot, "An outline of a purely phenomenological theory of statistical thermodynamics--I: Canonical ensembles," in IRE Transactions on Information Theory, vol. 2, no. 3, pp. 190-203, September 1956, doi: 10.1109/TIT.1956.1056804.
+- Uffink, Jos, and Janneke Van Lith. "Thermodynamic uncertainty relations." Foundations of physics 29.5 (1999): 655-692.
+- Mandelbrot, Benoit. "The role of sufficiency and of estimation in thermodynamics." The Annals of Mathematical Statistics (1962): 1021-1038.
+- Szilard, L. über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen. Z. Physik 53, 840–856 (1929). https://doi.org/10.1007/BF01341281
+## Nature of Time
+- Milburn, G. J. "The thermodynamics of clocks." Contemporary Physics 61.2 (2020): 69-95.
+- Erker, Paul, et al. "Autonomous quantum clocks: does thermodynamics limit our ability to measure time?." Physical Review X 7.3 (2017): 031022.
+- Schwarzhans, Emanuel, et al. "Autonomous temporal probability concentration: Clockworks and the second law of thermodynamics." Physical Review X 11.1 (2021): 011046.
 ## Computational Complexity
 - Mark Braverman, Jonathan Schneider, and Cristóbal Rojas. "Space-Bounded Church-Turing Thesis and Computational Tractability of Closed Systems." Physical Review Letters. DOI: 10.1103/PhysRevLett.115.098701
 # Metatheories
