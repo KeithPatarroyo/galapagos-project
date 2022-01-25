@@ -20,6 +20,6 @@ Within the field of foundations of mathematics, a set of tools have been invente
 
 - Some of the efforts in this line of inquiry are aligned with the [empirical metamathematics](https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/) and the [multicomputation](https://www.wolframphysics.org/bulletins/2021/10/multicomputation-with-numbers-the-case-of-simple-multiway-systems/) projects of the Wolfram Physics Project.
 
-- Another line of effort in this topic involves material computing verification in a chemical compiler.
+- Another line of effort in this topic involves [material computing](https://en.wikipedia.org/wiki/Pentium_FDIV_bug) verification in a chemical compiler.
 
 ---
