@@ -60,6 +60,7 @@ Listed here for convenience are publications of which we are aware that may be r
 ## Theoretical Biology
 - Krakauer, D., Bertschinger, N., Olbrich, E. et al. The information theory of individuality. Theory Biosci. 139, 209–223 (2020)
 - Maimon, Ron. "Computational Theory of Biological Function I." arXiv preprint q-bio/0503028 (2005).
+- Akhlaghpour, Hessameddin. "An RNA-based theory of natural universal computation." Journal of theoretical biology (2021): 110984.
 - Rosas FE, Mediano PAM, Jensen HJ, Seth AK, Barrett AB, Carhart-Harris RL, et al. (2020) Reconciling emergences: An information-theoretic approach to identify causal emergence in multivariate data. PLoS Comput Biol 16(12): e1008289. https://doi.org/10.1371/journal.pcbi.1008289
 - Mediano, Pedro AM, et al. "Greater than the parts: A review of the information decomposition approach to causal emergence." arXiv preprint arXiv:2111.06518 (2021).
 ## Origin of Life
@@ -239,7 +240,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Rota, Gian-Carlo. Indiscrete thoughts. Springer Science & Business Media, 2008.
 - Zalamea, Fernando. Synthetic philosophy of contemporary mathematics. MIT Press, 2012.
 - Corfield, David. Towards a philosophy of real mathematics. Cambridge University Press, 2003.
-- Dudley, Underwood. Mathematical cranks. Vol. 4. American Mathematical Soc., 2019.
+- Klosinski, Leonard F. et al. Is Mathematics Inevitable? : a Miscellany. Washington, D.C: Mathematical Association of America, 2008. Print.
+- Marquiz,J., Abstract Mathematical Tools and Machines for Mathematics, Philosophia Mathematica, Volume 5, Issue 3, October 1997, Pages 250–272, https://doi.org/10.1093/philmat/5.3.250
 ## Philosophy of Biology
 - Bergson, Henri. "Creative Evolution. Humanity’s Natural Creative Impulse." (2012).
 - Pence, C. (2021). The Causal Structure of Natural Selection (Elements in the Philosophy of Biology). Cambridge: Cambridge University Press. doi:10.1017/9781108680691
