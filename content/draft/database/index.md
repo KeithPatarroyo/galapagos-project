@@ -11,7 +11,7 @@ In this document we are recording the Game of Life patterns that have already be
 3. [B-Heptomino](https://galapagos.netlify.app/database/b-heptomino/)
 4. [Eater 1](https://galapagos.netlify.app/database/eater_1) 
 5. [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle)
-6. [Twin Bee Shuttle](https://galapagos.netlify.app/database/twins_bee_shuttle)  
+6. [Twin Bee Shuttle](https://galapagos.netlify.app/database/twin_bee_shuttle)  
 7. LW Emulator
 8. [Gosper Glider Gun/ P30 Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun)
 9. [P46 Glider Gun](https://galapagos.netlify.app/database/p46_glider_gun) 
