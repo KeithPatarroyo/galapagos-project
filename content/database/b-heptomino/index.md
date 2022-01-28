@@ -19,13 +19,13 @@ active: false
 
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>2o$b2o$2o$o!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 32.0 ]]
-#C [[ COLOR ARROW Purple ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Fuchsia ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 5 4 5 32  ]]
-#C [[ COLOR ARROW Cyan ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Lime ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW 4 5 4 -2 32  ]]
-#C [[ COLOR ARROW Yellow ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Salmon ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW 4 -2 -2 -2 32  ]]
-#C [[ COLOR ARROW Brown ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Gray ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 -2 -2 5 32  ]]
 #C [[ COLOR LABEL Green LABELSIZE 40  LABELALPHA 0.70 ]]
 #C [[ LABEL 1 -3 32 "B-Heptomino" ]]
