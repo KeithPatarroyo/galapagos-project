@@ -48,7 +48,7 @@ active: false
 
 ## Alternative Design
 
-**Composition**: [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle/) & [Block](https://galapagos.netlify.app/database/block/) & [Eater 1](https://galapagos.netlify.app/database/eater_1/) & [Traffic Light](https://galapagos.netlify.app/database/block/)
+**Composition**: [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle/)(+3t) & [Block](https://galapagos.netlify.app/database/block/) & [Eater 1](https://galapagos.netlify.app/database/eater_1/) & [Traffic Light](https://galapagos.netlify.app/database/block/)(+1)
 
 **Discovery Year**: 2021
 
