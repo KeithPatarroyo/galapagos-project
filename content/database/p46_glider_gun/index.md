@@ -7,7 +7,7 @@ active: false
 
 **Pattern Type**: Gun
 
-**Discovery Year**: ?
+**Discovery Year**: 1971
 
 **Composition**: [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle/) & [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle/)(+22t)
 
@@ -23,73 +23,62 @@ active: false
 2o15b2o30b$17bo!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 12.0 ]]
 #C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW -2 12 30 12 32  ]]
+#C [[  ARROW -2 15 30 15 28.0  ]]
 #C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 30 12 30 -2 32  ]]
+#C [[  ARROW 30 15 30 1 28.0  ]]
 #C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 30 -2 -2 -2 32  ]]
+#C [[  ARROW 30 1 -2 1 28.0  ]]
 #C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW -2 -2 -2 12 32  ]]
+#C [[  ARROW -2 1 -2 15 28.0  ]]
+#C [[ COLOR LABEL Gray LABELSIZE 33  LABELALPHA 0.70 ]]
+#C [[ LABEL 15 17 14 "Twin Bee Shuttle" ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 18 12 50 12 28.0  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 50 12 50 -2 28.0  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 50 -2 18 -2 28.0  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 18 -2 18 12 28.0  ]]
+#C [[ COLOR LABEL Gray LABELSIZE 33  LABELALPHA 0.70 ]]
+#C [[ LABEL 40 14 14 "Twin Bee Shuttle" ]]
 #C [[ COLOR LABEL Green LABELSIZE 40  LABELALPHA 0.70 ]]
-#C [[ LABEL 15 -4 14 "Twin Bee Shuttle" ]]
+#C [[ LABEL 23 -4 14 "p46 Glider Gun" ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 ## Alternative Design
 
-**Composition**: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+19t) 
+**Composition**: [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle/) & [Block](https://galapagos.netlify.app/database/block/) & [Eater 1](https://galapagos.netlify.app/database/eater_1/) & [Traffic Light](https://galapagos.netlify.app/database/block/)
 
-**Source**: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
+**Discovery Year**: 2021
+
+**Source**: [Wiki](https://www.conwaylife.com/wiki/Three_quarters_traffic_light_catalyst)
 
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>x = 49, y = 36, rule = Life
-43b2o$43b2o4$43bo$42b3o$41bo3bo$40bob3obo$41b5o6$42bo2b2o$42bobo$23bo
-17b2o$21bobo16b2o$12bo7bobo11b2o4b2obo$11b2o6bo2bo11b2o5b3o$2o8b2o4b2o
-2bobo$2o7b3o4b2o3bobo$10b2o4b2o5bo18b2o3b2o$11b2o32bo$12bo29bo5bo$43b
-2ob2o$44bobo$45bo$45bo5$45b2o$45b2o!
-#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 8.0 ]]
+x = 37, y = 14, rule = B3/S23
+24b2o$24b2o$36bo$17bo16b3o$2o15b2o6b2o6bo$2o16b2o5b2o6b2o$13b2o2b2o2$
+31bo$30b3o$13b2o2b2o10b2ob2o$2o16b2o10b3o$2o15b2o12bo$17bo!
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 12.0 ]]
 #C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW -2 27 23 27 18  ]]
+#C [[  ARROW -2 15 30 15 28.0  ]]
 #C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 23 27 23 17 18  ]]
+#C [[  ARROW 30 15 30 1 28.0  ]]
 #C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 23 17 -2 17 18  ]]
+#C [[  ARROW 30 1 -2 1 28.0  ]]
 #C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW -2 17 -2 27 18  ]]
+#C [[  ARROW -2 1 -2 15 28.0  ]]
+#C [[ COLOR LABEL Gray LABELSIZE 33  LABELALPHA 0.70 ]]
+#C [[ LABEL 15 17 14 "Twin Bee Shuttle" ]]
 #C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 12 25 37 25 18  ]]
+#C [[  ARROW 18 12 50 12 28.0  ]]
 #C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 37 25 37 15 18  ]]
+#C [[  ARROW 50 12 50 -2 28.0  ]]
 #C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 37 15 12 15 18  ]]
+#C [[  ARROW 50 -2 18 -2 28.0  ]]
 #C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 12 15 12 25 18  ]]
-#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 38 -2 38 23 18  ]]
-#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 38 23 48 23 18  ]]
-#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 48 -2 38 -2 18  ]]
-#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 48 23 48 -2 18  ]]
-#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 40 12 40 37 18  ]]
-#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 40 37 50 37 18  ]]
-#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
-#C [[  ARROW 50 12 40 12 18  ]]
-#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
-#C [[  ARROW 50 37 50 12 18  ]]
-#C [[ COLOR LABEL Green LABELSIZE 30  LABELALPHA 0.70 ]]
-#C [[ LABEL 18 12 18 "Gosper Glider Gun" ]]
-#C [[ COLOR LABEL Green LABELSIZE 30  LABELALPHA 0.70 ]]
-#C [[ LABEL 45 39 18 "Gosper Glider Gun" ]]
-#C [[ COLOR ARROW Gray ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
-#C [[  ARROW -2 37 50 37 18  ]]
-#C [[ COLOR ARROW Fuchsia ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
-#C [[  ARROW 50 37 50 -2 18  ]]
-#C [[ COLOR ARROW Lime ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
-#C [[  ARROW -2 -2 -2 37 18  ]]
-#C [[ COLOR ARROW Salmon ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
-#C [[  ARROW 50 -2 -2 -2 18  ]]
+#C [[  ARROW 18 -2 18 12 28.0  ]]
+#C [[ COLOR LABEL Gray LABELSIZE 33  LABELALPHA 0.70 ]]
+#C [[ LABEL 40 14 14 "Twin Bee Shuttle" ]]
 #C [[ COLOR LABEL Green LABELSIZE 40  LABELALPHA 0.70 ]]
-#C [[ LABEL 26 -5 14 "P60 Glider Gun(alternative)" ]]
+#C [[ LABEL 23 -4 14 "p46 Glider Gun(alternative-minimal)" ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
