@@ -9,7 +9,7 @@ active: false
 
 **Discovery Year**: 2021
 
-**Compositon**: x2 [B-Heptomino](https://galapagos.netlify.app/database/b-heptomino/) & x4 [Blocks](https://galapagos.netlify.app/database/block/)
+**Compositon**: x2 [B-Heptomino](https://galapagos.netlify.app/database/b-heptomino/) & x6 [Blocks](https://galapagos.netlify.app/database/block/)
 
 **Source**: Own
 <!--more-->
