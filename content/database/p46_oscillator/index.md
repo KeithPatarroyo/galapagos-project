@@ -1,5 +1,5 @@
 ---
-title: p46 Oscillator
+title: P46 Oscillator
 date: 2022-01-31
 active: false
 ---
