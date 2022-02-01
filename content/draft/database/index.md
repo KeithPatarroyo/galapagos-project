@@ -11,7 +11,7 @@ In this document we are recording the Game of Life patterns that have already be
 3. [B-Heptomino](https://galapagos.netlify.app/database/b-heptomino/)
 4. [Eater 1](https://galapagos.netlify.app/database/eater_1) 
 5. [Traffic Light](https://galapagos.netlify.app/database/traffic_light)
-6. [Three quarters traffic light catalyst](https://galapagos.netlify.app/database/3÷4_traffic_light_catalizer)
+6. [Three Quarters Traffic Light Catalyst](https://galapagos.netlify.app/database/3÷4_traffic_light_catalizer)
 7. [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle)
 8. [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle)
 9. [p46 Oscillator](https://galapagos.netlify.app/database/p46_oscillator)  
