@@ -10,40 +10,41 @@ In this document we are recording the Game of Life patterns that have already be
 2. [Queen Bee](https://galapagos.netlify.app/database/queen_bee) 
 3. [B-Heptomino](https://galapagos.netlify.app/database/b-heptomino/)
 4. [Eater 1](https://galapagos.netlify.app/database/eater_1) 
-5. [Traffic Light](https://galapagos.netlify.app/database/traffic_light) 
-6. [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle)
-7. [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle)
-8. [p46 Oscillator](https://galapagos.netlify.app/database/p46-oscillator)  
-9. LW Emulator
-10. [Gosper Glider Gun/ P30 Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun)
-11. [P46 Glider Gun](https://galapagos.netlify.app/database/p46_glider_gun) 
-12. [P60 Glider Gun](https://galapagos.netlify.app/database/p60_glider_gun)
-13. P30 LWSS Gun 
-14. P60 LWSS Gun 
-15. [NOT Gate](https://galapagos.netlify.app/database/not_gate)
-16. NOT Gate(LWSS)
-17. AND Gate
-18. AND Gate(LWSS)
-19. OR Gate
-20. OR Gate(LWSS)
-21. XOR Gate(LWSS)
-22. Crossover
-23. Crossover(LWSS)
-24. Rotator
-25. Rotator(LWSS)
-26. Duplicator
-27. Duplicator(LWSS)
-28. Adaptator
-29. Four Bit Adder
-30. Arithmetic and logic unit (ALU)
-31. Latch
-32. Latch(LWSS)
-33. Flip-Flop
-34. Flip-Flop(LWSS)
-35. Memory Unit
-36. 7 Segment Display
-37. 7 Segment Display(LWSS)
-38. Program(Static Memory)
-39. 8-Bit Computer
+5. [Traffic Light](https://galapagos.netlify.app/database/traffic_light)
+6. [Three quarters traffic light catalyst](https://galapagos.netlify.app/database/3÷4_traffic_light_catalizer)
+7. [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle)
+8. [Twin Bees Shuttle](https://galapagos.netlify.app/database/twin_bees_shuttle)
+9. [p46 Oscillator](https://galapagos.netlify.app/database/p46_oscillator)  
+10. LW Emulator
+11. [Gosper Glider Gun/ P30 Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun)
+12. [P46 Glider Gun](https://galapagos.netlify.app/database/p46_glider_gun) 
+13. [P60 Glider Gun](https://galapagos.netlify.app/database/p60_glider_gun)
+14. P30 LWSS Gun 
+15. P60 LWSS Gun 
+16. [NOT Gate](https://galapagos.netlify.app/database/not_gate)
+17. NOT Gate(LWSS)
+18. AND Gate
+19. AND Gate(LWSS)
+20. OR Gate
+21. OR Gate(LWSS)
+22. XOR Gate(LWSS)
+23. Crossover
+24. Crossover(LWSS)
+25. Rotator
+26. Rotator(LWSS)
+27. Duplicator
+28. Duplicator(LWSS)
+29. Adaptator
+30. Four Bit Adder
+31. Arithmetic and logic unit (ALU)
+32. Latch
+33. Latch(LWSS)
+34. Flip-Flop
+35. Flip-Flop(LWSS)
+36. Memory Unit
+37. 7 Segment Display
+38. 7 Segment Display(LWSS)
+39. Program(Static Memory)
+40. 8-Bit Computer
 
 *ToDo: A more descriptive database with patterns and its technological components: Principle, Architecture, Phenomenon and Subtechnologies.*
