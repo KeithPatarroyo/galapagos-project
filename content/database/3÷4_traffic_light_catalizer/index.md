@@ -1,17 +1,17 @@
 ---
-title: Traffic Light
-date: 2022-01-29
+title: Three Quarters Traffic Light Catalyst
+date: 2022-01-31
 active: false
 ---
 
 
 **Pattern Type**: Oscillator
 
-**Discovery Year**: 1970
+**Discovery Year**: 2021
 
-**Compositon**: Axiom
+**Compositon**: [Traffic Light](https://galapagos.netlify.app/database/traffic_light) & [Eater 1](https://galapagos.netlify.app/database/eater_1)
 
-**Source**: [Wiki](https://www.conwaylife.com/wiki/Traffic_light)
+**Source**: [Wiki](https://conwaylife.com/wiki/Three_quarters_traffic_light_catalyst)
 <!--more-->
 
 <p>
