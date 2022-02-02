@@ -214,6 +214,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Uffink, Jos, and Janneke Van Lith. "Thermodynamic uncertainty relations." Foundations of physics 29.5 (1999): 655-692.
 - Mandelbrot, Benoit. "The role of sufficiency and of estimation in thermodynamics." The Annals of Mathematical Statistics (1962): 1021-1038.
 - Szilard, L. über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen. Z. Physik 53, 840–856 (1929). https://doi.org/10.1007/BF01341281
+- Jaynes, Edwin T. "Gibbs vs Boltzmann entropies." American Journal of Physics 33.5 (1965): 391-398.
 ## Heat Engines
 - Einstein, A., L. Szilárd, "Accompanying notes and remarks for Pat. No. 1,781,541". Mandeville Special Collections Library USC. Box 35, Folder 3, 1927; 52 pages. https://library.ucsd.edu/dc/object/bb8499907f
 - Einstein, A., L. Szilárd, "Refrigeration" (Appl: 16 December 1927; Priority: Germany, 16 December 1926) [U.S. Patent 1,781,541](https://patents.google.com/patent/US1781541), 11 November 1930.
