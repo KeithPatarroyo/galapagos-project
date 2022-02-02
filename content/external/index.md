@@ -189,6 +189,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Tishby, N.; Zaslavsky, N. Deep learning, and the information bottleneck principle. In Proceedings of the 2015 IEEE Information Theory Workshop (ITW), Jerusalem, Israel, 26 April–1 May 2015; pp. 1–5.
 - Ha, David, and Yujin Tang. "Collective Intelligence for Deep Learning: A Survey of Recent Developments." arXiv preprint arXiv:2111.14377 (2021).
 - Risi, S. The Future of Artificial Intelligence is Self-Organizing and Self-Assembling. https://sebastianrisi.com/self_assembling_ai/
+- Mahadevan, Sridhar. "Imagination machines: A new challenge for artificial intelligence." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 32. No. 1. 2018.
 ## Compilers and Self-Replicating Programs
 - Thompson, Ken. "Reflections on trusting trust." ACM Turing award lectures. 2007. 1983.
 - Aho, Alfred V., Ravi Sethi, and Jeffrey D. Ullman. "Compilers, principles, techniques." Addison wesley 7.8 (1986): 9.
@@ -213,6 +214,13 @@ Listed here for convenience are publications of which we are aware that may be r
 - Uffink, Jos, and Janneke Van Lith. "Thermodynamic uncertainty relations." Foundations of physics 29.5 (1999): 655-692.
 - Mandelbrot, Benoit. "The role of sufficiency and of estimation in thermodynamics." The Annals of Mathematical Statistics (1962): 1021-1038.
 - Szilard, L. über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen. Z. Physik 53, 840–856 (1929). https://doi.org/10.1007/BF01341281
+## Heat Engines
+- Einstein, A., L. Szilárd, "Accompanying notes and remarks for Pat. No. 1,781,541". Mandeville Special Collections Library USC. Box 35, Folder 3, 1927; 52 pages. https://library.ucsd.edu/dc/object/bb8499907f
+- Einstein, A., L. Szilárd, "Refrigeration" (Appl: 16 December 1927; Priority: Germany, 16 December 1926) [U.S. Patent 1,781,541](https://patents.google.com/patent/US1781541), 11 November 1930.
+- Dannen, Gene. "The Einstein-Szilard Refrigerators." Scientific American 276.1 (1997): 90-95.
+- Barbour, J. A History of Thermodynamics. 2020. http://platonia.com/A_History_of_Thermodynamics.pdf
+- Barbour, J. The janus point: a new theory of time. Random House, 2020.
+- Halpern, N. Y. Quantum Steampunk: The Physics of Yesterday's Tomorrow. Johns Hopkins University Press 2022. 
 ## Nature of Time
 - Milburn, G. J. "The thermodynamics of clocks." Contemporary Physics 61.2 (2020): 69-95.
 - Erker, Paul, et al. "Autonomous quantum clocks: does thermodynamics limit our ability to measure time?." Physical Review X 7.3 (2017): 031022.
