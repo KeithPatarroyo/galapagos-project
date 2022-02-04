@@ -170,6 +170,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - [Assembled Assemblers](http://cba.mit.edu/projects/dma/assembled_assemblers/index.html)
 - Taylor, Tim, and Alan Dorin. Rise of the Self-Replicators. Springer, 2020.
 - Jensen, Johannes Høydahl. "Reservoir computing in-materio: Emergence and control in unstructured and structured materials." (2021).
+- Horsman Clare, Stepney Susan, Wagner Rob C. and Kendon Viv 2014When does a physical system compute?Proc. R. Soc. A.4702014018220140182
 ## Distributed Systems
 - L. Lamport, “Time, Clocks, and the Ordering of Events in a Distributed System”, Commun ACM 21, 558–65, (1978). doi:10.1145/359545.359563.
 - Lamport, Leslie, Robert Shostak, and Marshall Pease. The Byzantine Generals Problem Trans Prog. Lang. Syst. 4, 3 (July 1982), 382-401
