@@ -66,6 +66,8 @@ Video:
 
 {{< youtube iWwWuCq5iMU >}}
 
+</br>
+
 Audio:
 
 {{< audio src="https://galapagos.netlify.app/event/clubhouse_rna/clubhouse-full.mp3" >}}
@@ -90,6 +92,7 @@ OUTLINE
 <p style="font-size: 0.7rem;">
 23:10 - Controversy in Genetics about Junk-RNA or Non-Coding RNA
 </p>
+<div style="font-size: 0.7rem;">
 29:06 - Combinators and Combinatory Logic
 35:25 - The parenthesis problem in Combinators and RNA Stem-Loops
 42:10 - Combinators plus addresable memory = Cleavages + Ligations
@@ -111,3 +114,5 @@ OUTLINE
 1:47:50 - Discussion 1: Are there natural quantum effects in biology?
 1:50:46 - Discussion 2: Are there natural quantum effects in neuroscience?
 1:55:40 - Closing Remarks
+</div>
+
