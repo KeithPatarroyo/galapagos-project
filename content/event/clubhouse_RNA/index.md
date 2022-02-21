@@ -36,7 +36,7 @@ image:
   
 links:
 - name: 'Audio'
-  url: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
+  url: "https://galapagos.netlify.app/event/clubhouse_rna/clubhouse-full.mp3"
 - name: 'ClubHouse Replay'
   url: "https://t.co/y2t5a0zTSL"
 url_code: ""
@@ -63,3 +63,5 @@ projects:
 ---
 
 Audio:
+
+{{< audio src="https://galapagos.netlify.app/event/clubhouse_rna/clubhouse-full.mp3" >}}
