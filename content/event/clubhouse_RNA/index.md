@@ -94,13 +94,13 @@ OUTLINE
 1:12:40 - Mohamed Question 1: Where is the Hardware and Software in this architecture?
 1:15:10 - Mohamed Question 2: Church-Roser Theorem and the goal of computation
 1:23:55 - Daniel Comment on Membrane Voltage of the Cell
-1:30:50 - AfterParty
-1:32:45 - Sohail comment on Membrane Voltage with peptides and neuropeptides
-1:38:55 - Sohail Question 2: Review Process of a heterodox single authored article 
-1:41:25 - Ethan comment on Penrose's proposal of a Quantum Biological process
-1:43:25 - Ethan Question: How can one experimentally verify this theory?
-1:45:20 - Brent Question: Is DNA or RNA a computer?
+1:30:37 - AfterParty
+1:32:44 - Sohail comment on Membrane Voltage with peptides and neuropeptides
+1:38:48 - Sohail Question 2: Review Process of a heterodox single authored article 
+1:41:18 - Ethan comment on Penrose's proposal of a Quantum Biological process
+1:43:00 - Ethan Question: How can one experimentally verify this theory?
+1:45:23 - Brent Question: Is DNA or RNA a computer?
 1:47:50 - Discussion 1: Are there natural quantum effects in biology?
-1:50:50 - Discussion 2: Are there natural quantum effects in neuroscience?
-1:55:35 - Closing Remarks
+1:50:46 - Discussion 2: Are there natural quantum effects in neuroscience?
+1:55:40 - Closing Remarks
 </p>
