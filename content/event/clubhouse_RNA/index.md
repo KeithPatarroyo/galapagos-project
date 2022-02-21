@@ -94,9 +94,13 @@ OUTLINE
 </p>
 <div style="font-size: 0.7rem;">
 29:06 - Combinators and Combinatory Logic
+  
 35:25 - The parenthesis problem in Combinators and RNA Stem-Loops
+  
 42:10 - Combinators plus addresable memory = Cleavages + Ligations
+  
 46:45 - Combinators with self-reference
+
 50:30 - Missconceptions about Combinators
 56:30 - Natural RNA computation consequences in molecular memory theory
 59:00 - Natural RNA computation consequences in non-coding RNA
