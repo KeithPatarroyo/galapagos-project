@@ -62,25 +62,34 @@ projects:
 
 ---
 
+Video:
+
+{{< youtube iWwWuCq5iMU >}}
+
 Audio:
 
 {{< audio src="https://galapagos.netlify.app/event/clubhouse_rna/clubhouse-full.mp3" >}}
 
+
 OUTLINE
+<p style="font-size: 0.7rem;">
 0:00 - Introduction
+  
 5:34 - Main Motivation of the work - Universal Computer in Biology
+  
 9:45 - Are Neural Networks (NNs) Turing complete ?
+
 13:30 - Memory Expansion
 19:16 - History of RNA Computation
 23:10 - Controversy in Genetics about Junk-RNA or Non-Coding RNA
 29:06 - Combinators and Combinatory Logic
 35:25 - The parenthesis problem in Combinators and RNA Stem-Loops
 42:10 - Combinators plus addresable memory = Cleavages + Ligations
-46:50 - Combinators with self-reference
+46:45 - Combinators with self-reference
 50:30 - Missconceptions about Combinators
 56:30 - Natural RNA computation consequences in molecular memory theory
 59:00 - Natural RNA computation consequences in non-coding RNA
-1:01:40 - Q&A
+1:01:35 - Q&A
 1:04:10 - Sohail Question 1: How far are we from understanding the genome?
 1:12:40 - Mohamed Question 1: Where is the Hardware and Software in this architecture?
 1:15:10 - Mohamed Question 2: Church-Roser Theorem and the goal of computation
@@ -94,3 +103,4 @@ OUTLINE
 1:47:50 - Discussion 1: Are there natural quantum effects in biology?
 1:50:50 - Discussion 2: Are there natural quantum effects in neuroscience?
 1:55:35 - Closing Remarks
+</p>
