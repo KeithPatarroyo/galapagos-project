@@ -12,17 +12,17 @@ address:
   postcode: 
   country: Canada
 
-summary: "Discussion of the article 'A RNA theory of natural universal computation' published here: https://bit.ly/3BrVfqt."
+summary: Discussion of the article "A RNA theory of natural universal computation" published here: https://bit.ly/3BrVfqt.
 abstract: "Keith Patarroyo publicly kicks off an ambitious new project to find science of MetaEngineering. The crucial element in this voyage is the Game of Life Cellular (GoL) Automata. By analyzing its 50 year development the project aims to distill the key elements of innovation and obtain  the building blocks of the empirical science of MetaEngineering."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-06T16:00:00Z"
-date_end: "2021-07-06T17:00:00Z"
+date: "2022-02-19T14:00:00Z"
+date_end: "2022-02-19T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-06T00:00:00Z"
+publishDate: "2022-02-19T00:00:00Z"
 
 authors: [admin]
 tags: []
@@ -35,12 +35,14 @@ image:
   focal_point: Right
   
 links:
-- name: 'Announcement Post'
+- name: 'Audio'
   url: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
+- name: 'ClubHouse Replay'
+  url: "https://t.co/y2t5a0zTSL"
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=FPNmNUJFslo"
+url_video: ""
 
 
 
@@ -57,8 +59,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
 ---
 
-Slides:
-
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vS4yNmYAGGJrpaEzWQsJppCclhMohP-Fme4kTUCKRRoY6i3aKZvMLGvRV4h1duDSs71H1cTnpsmFoGD/embed?start=false&loop=false&delayms=3000" >}}
+Audio:
