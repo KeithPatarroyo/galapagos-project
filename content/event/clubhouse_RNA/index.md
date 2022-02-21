@@ -74,25 +74,20 @@ Audio:
 
 
 OUTLINE
-<p style="font-size: 0.7rem;">
-0:00 - Introduction
-</p>
-<p style="font-size: 0.7rem;">
-5:34 - Main Motivation of the work - Universal Computer in Biology
-</p>
-<p style="font-size: 0.7rem;">
-9:45 - Are Neural Networks (NNs) Turing complete ?
-</p>
-<p style="font-size: 0.7rem;">
-13:30 - Memory Expansion
-</p>
-<p style="font-size: 0.7rem;">
-19:16 - History of RNA Computation
-</p>
-<p style="font-size: 0.7rem;">
-23:10 - Controversy in Genetics about Junk-RNA or Non-Coding RNA
-</p>
+
 <div style="font-size: 0.7rem;">
+0:00 - Introduction
+
+5:34 - Main Motivation of the work - Universal Computer in Biology
+
+9:45 - Are Neural Networks (NNs) Turing complete ?
+
+13:30 - Memory Expansion
+
+19:16 - History of RNA Computation
+
+23:10 - Controversy in Genetics about Junk-RNA or Non-Coding RNA
+
 29:06 - Combinators and Combinatory Logic
   
 35:25 - The parenthesis problem in Combinators and RNA Stem-Loops
@@ -102,21 +97,37 @@ OUTLINE
 46:45 - Combinators with self-reference
 
 50:30 - Missconceptions about Combinators
+  
 56:30 - Natural RNA computation consequences in molecular memory theory
+  
 59:00 - Natural RNA computation consequences in non-coding RNA
+
 1:01:35 - Q&A
+
 1:04:10 - Sohail Question 1: How far are we from understanding the genome?
+  
 1:12:40 - Mohamed Question 1: Where is the Hardware and Software in this architecture?
+  
 1:15:10 - Mohamed Question 2: Church-Roser Theorem and the goal of computation
+  
 1:23:55 - Daniel Comment on Membrane Voltage of the Cell
+  
 1:30:37 - AfterParty
+  
 1:32:44 - Sohail comment on Membrane Voltage with peptides and neuropeptides
+  
 1:38:48 - Sohail Question 2: Review Process of a heterodox single authored article 
+  
 1:41:18 - Ethan comment on Penrose's proposal of a Quantum Biological process
+  
 1:43:00 - Ethan Question: How can one experimentally verify this theory?
+  
 1:45:23 - Brent Question: Is DNA or RNA a computer?
+  
 1:47:50 - Discussion 1: Are there natural quantum effects in biology?
+  
 1:50:46 - Discussion 2: Are there natural quantum effects in neuroscience?
+  
 1:55:40 - Closing Remarks
 </div>
 
