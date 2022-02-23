@@ -165,6 +165,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - David H. Ackley. The T2 Tile Project. https://t2tile.com/
 ## Programable Matter
 - Gershenfeld, Neil. "Aligning the representation and reality of computation with asynchronous logic automata." Computing 93.2-4 (2011): 91-102.
+- Cheung, Kenneth C., et al. "Programmable assembly with universally foldable strings (moteins)." IEEE Transactions on Robotics 27.4 (2011): 718-729.
 - Ghassaei, Amanda Paige. Rapid design and simulation of functional digital materials. Diss. Massachusetts Institute of Technology, 2016.
 - Langford, William Kai. Electronic digital materials. Diss. Massachusetts Institute of Technology, 2014.
 - [Assembled Assemblers](http://cba.mit.edu/projects/dma/assembled_assemblers/index.html)
@@ -242,6 +243,11 @@ Listed here for convenience are publications of which we are aware that may be r
 - Anastasia Buyalskaya, Marcos Gallo, & Colin F. Camerer. The golden age of social science. Proceedings of the National Academy of Sciences, 118(5), e2002923118 (2021).
 - Santo Fortunato, et al. "Science of science". Science 359. 6379 (2018).
 - Wang, D., Barabási, A.L. The Science of Science. Cambridge University Press; 1st edition (2021).
+# Music
+## Electronic Music 
+- Xenakis, Iannis. Formalized music: thought and mathematics in composition. No. 6. Pendragon Press, 1992.
+## Sound Machines
+- Andrey Smirnov: Sound in Z: Experiments in Sound and Electronic Music in Early 20th Century Russia. Softcover, 2013, ISBN 978-3-86560-706-5, 281 pages, Koenig Books.
 # Philosophy
 ## Phenomenology
 - Todes, Samuel. Body and world. MIT Press, 2001.
