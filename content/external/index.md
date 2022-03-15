@@ -85,6 +85,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Youngblood, Mason, Karim Baraghith, and Patrick E. Savage. "Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975–1999)." Evolution and Human Behavior (2021).
 - Aguirre-Fernández, G., Barbieri, C., Graff, A. et al. Cultural macroevolution of musical instruments in South America. Humanit Soc Sci Commun 8, 208 (2021). https://doi.org/10.1057/s41599-021-00881-z
 - Mehr SA, Singh M, Knox D et al. Universality and diversity in human song. Science 366 (2019): https://doi.org/10.1126/science.aax0868
+- Gabora Liane and Steel Mike 2021An evolutionary process without variation and selectionJ. R. Soc. Interface.182021033420210334
+http://doi.org/10.1098/rsif.2021.0334
 ## Biological Self-Replicators and Universal Constructors
 - Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
