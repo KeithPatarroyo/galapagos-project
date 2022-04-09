@@ -2,7 +2,7 @@
 title: "Technology or Monetary System: What is the key to progress? — Part I: The case for Technology"
 authors:
 - admin
-date: "2021-07-02T00:00:00Z"
+date: "2021-04-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
