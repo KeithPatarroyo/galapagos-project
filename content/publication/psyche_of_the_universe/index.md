@@ -25,7 +25,7 @@ summary: "Essay containing the fundamental philosophical ideas of the [Gálapago
 
 tags:
 - Adjacent
-featured: false
+featured: true
 
 links:
 - name: 'Web Version'
