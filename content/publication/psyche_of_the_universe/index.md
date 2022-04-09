@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Featured image from the course [Introduction to Future Theories of Intelligence](https://thenewcentre.org/seminars/introduction-future-theories-intelligence/)'
+  caption: 'Journal cover and article first page'
   focal_point: ""
   preview_only: false
 
