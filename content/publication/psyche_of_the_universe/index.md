@@ -28,14 +28,15 @@ tags:
 featured: false
 
 links:
-
+- name: 'Web Version'
+  url: https://www.sum.si/journal-articles/the-outside-naturalised
 url_pdf: 'https://www.sum.si/uploads/downloads/sum-17-meta-futures.pdf'
 url_code: '' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.sum.si/journal-articles/the-outside-naturalised'
+url_source: ''
 url_video: ''
 
 # Featured image
