@@ -3,7 +3,7 @@ title: We have a new Twitter account
 date: 2021-05-07
 ---
 
-You can follow the project on [twitter](https://twitter.com/GalpagosProjec2) !!
+You can follow the project on [twitter](https://twitter.com/projgalapagos) !!
 
 <!--more-->
 
