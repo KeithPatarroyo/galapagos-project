@@ -25,7 +25,7 @@ abstract: In the previous post, I argued that technology has historically exploi
 summary: 
 
 tags:
-- External
+- PreProject
 featured: false
 
 links:
