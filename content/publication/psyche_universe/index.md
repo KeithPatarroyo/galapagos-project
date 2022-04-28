@@ -15,8 +15,8 @@ publishDate: "2017-10-30:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Šum, journal for contemporary art criticism and theory"
+publication_short: "ŠUM"
 
 abstract: "The notions of intelligence and life have been a topic of discussion since the beginning of humanity. Despite the progress made, to this day both concepts remain very much ill-defined, therefore one may think that it is a mistake to try and define intelligence in terms of life. The point of this essay is to argue otherwise, and by considering one key element that I think life exemplifies, I’ll attempt to convince you that life and intelligence share a common structure. Some of the traits of life that can be used to study intelligence include evolutionary transitions, adaptive fitness landscapes, speciation, life/death, and evolutionary novelty. In this essay, I will only consider one of these traits and focus on the idea of intelligence as a tool to generate evolutionary novelty."
 
