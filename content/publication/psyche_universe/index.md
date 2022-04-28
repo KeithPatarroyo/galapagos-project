@@ -1,8 +1,8 @@
 ---
-title: "Intelligence as Life"
+title: "Psyche of the Universe"
 authors:
 - admin
-date: "2022-01-06T00:00:00Z"
+date: "2022-04-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
