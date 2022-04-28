@@ -27,7 +27,7 @@ Edited by Keith Y. Patarroyo, this manuscript features the thoughts of Ron Maimo
 summary: 
 
 tags:
-- External
+- Curation
 featured: false
 
 links:
