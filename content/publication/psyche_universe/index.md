@@ -32,7 +32,7 @@ links:
   url: https://www.sum.si/journal-articles/the-psyche-of-the-universe
 - name: 'Full Journal PDF'
   url: https://www.sum.si/uploads/downloads/sum-18-generative-horizons.pdf
-url_pdf: 'https://galapagos.netlify.app/publication/psyche_of_the_universe/psyche-of-the-universe-final.pdf'
+url_pdf: 'https://galapagos.netlify.app/publication/psyche_universe/psyche-of-the-universe-final.pdf'
 url_code: '' 
 url_dataset: ''
 url_poster: ''
