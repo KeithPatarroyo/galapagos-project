@@ -2,11 +2,11 @@
 title: "Psyche of the Universe"
 authors:
 - admin
-date: "2022-04-08T00:00:00Z"
+date: "2022-04-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-22:00:00Z"
+publishDate: "2022-04-27:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +29,10 @@ featured: true
 
 links:
 - name: 'Web Version'
-  url: https://www.sum.si/journal-articles/the-outside-naturalised
+  url: https://www.sum.si/journal-articles/the-psyche-of-the-universe
 - name: 'Full Journal PDF'
-  url: https://www.sum.si/uploads/downloads/sum-17-meta-futures.pdf
-url_pdf: 'https://www.sum.si/uploads/downloads/sum-17-meta-futures.pdf'
+  url: https://www.sum.si/uploads/downloads/sum-18-generative-horizons.pdf
+url_pdf: 'https://galapagos.netlify.app/publication/psyche_of_the_universe/psyche-of-the-universe-final.pdf'
 url_code: '' 
 url_dataset: ''
 url_poster: ''
