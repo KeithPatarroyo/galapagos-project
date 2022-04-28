@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Journal cover and article first page'
+  caption: 'Journal Issue: Generative Horizons and Article First Page'
   focal_point: ""
   preview_only: false
 
