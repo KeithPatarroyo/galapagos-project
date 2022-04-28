@@ -2,7 +2,7 @@
 title: "Psyche of the Universe"
 authors:
 - admin
-date: "2022-04-27T00:00:00Z"
+date: "2022-04-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
