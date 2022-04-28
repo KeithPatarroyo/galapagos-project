@@ -25,7 +25,7 @@ abstract: It seems today there are two competing narratives regarding the questi
 summary: 
 
 tags:
-- External
+- PreProject
 featured: false
 
 links:
