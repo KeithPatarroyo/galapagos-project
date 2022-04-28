@@ -55,6 +55,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - externalities
+- philosophy
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
