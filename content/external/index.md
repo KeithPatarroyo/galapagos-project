@@ -91,7 +91,10 @@ http://doi.org/10.1098/rsif.2021.0334
 - Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
 - Bokov, Konstantin, and Sergey V. Steinberg. "A hierarchical model for evolution of 23S ribosomal RNA." Nature 457.7232 (2009): 977-980.
-## Energy Transitions
+- Kriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021) “Kinematic self-replication in reconfigurable organisms”, Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e2112672118.
+## Energy TransitionsKriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021)
+“Kinematic self-replication in reconfigurable organisms”,
+Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e2112672118.
 - Judson, O. The energy expansions of evolution. Nat Ecol Evol 1, 0138 (2017). https://doi.org/10.1038/s41559-017-0138
 ## Biological Computation
 - Hopfield, J. J. "Physics, computation, and why biology looks so different." Journal of Theoretical Biology 171.1 (1994): 53-60.
