@@ -15,7 +15,7 @@ social:
     link: mailto:galpagosprojec2@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/projgalapagos
+    link: https://twitter.com/NicDrapeau
   - icon: globe
     icon_pack: fas
     link: https://nicdrapeau.wordpress.com/
