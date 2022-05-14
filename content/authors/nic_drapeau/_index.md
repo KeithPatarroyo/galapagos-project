@@ -1,12 +1,14 @@
 ---
 title: Nicolas Drapeau
-role: Researcher on the Origins of Life and Creativity
+role: Researcher on the Origins of Life, Creativity and Foundations of Mathematics
 avatar_filename: avatar.jpg
-bio: My research interests include the Origins of Life, the Nature of Intelligence and Creativity.
+bio: My research interests include the Origins of Life, Foundations of Mathematics and the Nature of Intelligence and Creativity.
 interests:
   - Origins of Life
   - Intelligence Multiplicity
   - The Creativity of the Universe
+  - Foundations of Mathematics
+  - Philosophy of Mathematics
 social:
   - icon: envelope
     icon_pack: fas
