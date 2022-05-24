@@ -14,7 +14,7 @@ social:
     link: mailto:galpagosprojec2@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/projgalapagos
+    link: https://mobile.twitter.com/TakahaSatoshi
   - icon: globe
     icon_pack: fas
     link: 
