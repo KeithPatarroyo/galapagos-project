@@ -92,9 +92,8 @@ http://doi.org/10.1098/rsif.2021.0334
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
 - Bokov, Konstantin, and Sergey V. Steinberg. "A hierarchical model for evolution of 23S ribosomal RNA." Nature 457.7232 (2009): 977-980.
 - Kriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021) “Kinematic self-replication in reconfigurable organisms”, Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e2112672118.
-## Energy TransitionsKriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021)
-“Kinematic self-replication in reconfigurable organisms”,
-Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e2112672118.
+## Energy Transitions
+- Kriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021). “Kinematic self-replication in reconfigurable organisms”, Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e2112672118.
 - Judson, O. The energy expansions of evolution. Nat Ecol Evol 1, 0138 (2017). https://doi.org/10.1038/s41559-017-0138
 ## Biological Computation
 - Hopfield, J. J. "Physics, computation, and why biology looks so different." Journal of Theoretical Biology 171.1 (1994): 53-60.
@@ -182,6 +181,8 @@ Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e21126
 - Lamport, Leslie, Robert Shostak, and Marshall Pease. The Byzantine Generals Problem Trans Prog. Lang. Syst. 4, 3 (July 1982), 382-401
 - Pease, Marshall, Robert Shostak, and Leslie Lamport. "Reaching agreement in the presence of faults." Journal of the ACM (JACM) 27.2 (1980): 228-234.
 - Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.
+- NKN, L. "NKN: a scalable self-evolving and self-incentivized decentralized network." (2018). https://nkn.org/wp-content/uploads/2020/10/NKN_Whitepaper.pdf
+- Popov, Serguei, Hans Moog, Darcy Camargo, Angelo Capossele, Vassil Dimitrov, Alon Gal, Andrew Greve et al. "The coordicide." Accessed Jan (2020): 1-30.https://files.iota.org/papers/20200120_Coordicide_WP.pdf
 - Grant Malcolm. Sheaves, Objects, and Distributed Systems. Electronic Notes in Theoretical Computer Science, 225, 3–19 (2009).
 - Goguen, J. A. Sheaf semantics for concurrent interacting objects. Mathematical Structures in Computer Science, 2(2), 159-191 (1992).
 ## Machine Learning
