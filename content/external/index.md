@@ -182,7 +182,7 @@ http://doi.org/10.1098/rsif.2021.0334
 - Pease, Marshall, Robert Shostak, and Leslie Lamport. "Reaching agreement in the presence of faults." Journal of the ACM (JACM) 27.2 (1980): 228-234.
 - Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.
 - NKN, L. "NKN: a scalable self-evolving and self-incentivized decentralized network." (2018). https://nkn.org/wp-content/uploads/2020/10/NKN_Whitepaper.pdf
-- Popov, Serguei, Hans Moog, Darcy Camargo, Angelo Capossele, Vassil Dimitrov, Alon Gal, Andrew Greve et al. "The coordicide." Accessed Jan (2020): 1-30.https://files.iota.org/papers/20200120_Coordicide_WP.pdf
+- Popov, Serguei, Hans Moog, Darcy Camargo, Angelo Capossele, Vassil Dimitrov, Alon Gal, Andrew Greve et al. "The coordicide." Accessed Jan (2020): 1-30. https://files.iota.org/papers/20200120_Coordicide_WP.pdf
 - Grant Malcolm. Sheaves, Objects, and Distributed Systems. Electronic Notes in Theoretical Computer Science, 225, 3–19 (2009).
 - Goguen, J. A. Sheaf semantics for concurrent interacting objects. Mathematical Structures in Computer Science, 2(2), 159-191 (1992).
 ## Machine Learning
