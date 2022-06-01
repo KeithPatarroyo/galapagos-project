@@ -216,6 +216,7 @@ http://doi.org/10.1098/rsif.2021.0334
 - Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
 - Flack Jessica C. Coarse-graining as a downward causation mechanism. Phil. Trans. R. Soc. (2017) A.3752016033820160338
 - Chiara Marletto. (2017). Constructor Theory of Thermodynamics. https://arxiv.org/abs/1608.02625
+- Chiara Marletto (2022). The information-theoretic foundation of thermodynamic work extraction. Journal of Physics Communications, 6(5), 055012.
 - Mandelbrot, Benoit. "On the derivation of statistical thermodynamics from purely phenomenological principles." Journal of Mathematical Physics 5.2 (1964): 164-171.
 - L. Szilard, "Uber die ausdehnung der phenomenologischen thermodynamik auf der schwankungserscheinungen", Z. Physik, vol. 32, pp. 753, 1925.
 - B. Mandelbrot, "An outline of a purely phenomenological theory of statistical thermodynamics--I: Canonical ensembles," in IRE Transactions on Information Theory, vol. 2, no. 3, pp. 190-203, September 1956, doi: 10.1109/TIT.1956.1056804.
