@@ -93,7 +93,7 @@ http://doi.org/10.1098/rsif.2021.0334
 - Bokov, Konstantin, and Sergey V. Steinberg. "A hierarchical model for evolution of 23S ribosomal RNA." Nature 457.7232 (2009): 977-980.
 - Kriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021) “Kinematic self-replication in reconfigurable organisms”, Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e2112672118.
 ## Energy Transitions
-- Kriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021). “Kinematic self-replication in reconfigurable organisms”, Proceedings of the National Academy of Sciences (PNAS), vol. 118, no. 49, e2112672118.
+- Maynard Smith, J. & Szathmáry, E. The Major Transitions in Evolution (WH Freeman, 1995).
 - Judson, O. The energy expansions of evolution. Nat Ecol Evol 1, 0138 (2017). https://doi.org/10.1038/s41559-017-0138
 ## Biological Computation
 - Hopfield, J. J. "Physics, computation, and why biology looks so different." Journal of Theoretical Biology 171.1 (1994): 53-60.
