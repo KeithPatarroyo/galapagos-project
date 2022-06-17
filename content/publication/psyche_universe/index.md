@@ -1,5 +1,5 @@
 ---
-title: "Psyche of the Universe"
+title: "The Psyche of the Universe"
 authors:
 - admin
 date: "2022-04-27T00:00:00Z"
