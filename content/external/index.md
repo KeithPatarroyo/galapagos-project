@@ -185,6 +185,8 @@ http://doi.org/10.1098/rsif.2021.0334
 - Popov, Serguei, Hans Moog, Darcy Camargo, Angelo Capossele, Vassil Dimitrov, Alon Gal, Andrew Greve et al. "The coordicide." Accessed Jan (2020): 1-30. https://files.iota.org/papers/20200120_Coordicide_WP.pdf
 - Grant Malcolm. Sheaves, Objects, and Distributed Systems. Electronic Notes in Theoretical Computer Science, 225, 3–19 (2009).
 - Goguen, J. A. Sheaf semantics for concurrent interacting objects. Mathematical Structures in Computer Science, 2(2), 159-191 (1992).
+## Algorithmic Complexity
+- Zenil, Hector, Narsis A. Kiani, and Jesper Tegnér. "Algorithmic information dynamics of persistent patterns and colliding particles in the game of life." arXiv preprint arXiv:1802.07181 (2018).
 ## Machine Learning
 - François Chollet. On the Measure of Intelligence (2019).
 - Pascal Friederich, Mario Krenn, Isaac Tamblyn, & Alán Aspuru-Guzik. Scientific intuition inspired by machine learning-generated hypotheses. Machine Learning: Science and Technology, 2(2), 025027 (2021).
