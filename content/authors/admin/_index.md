@@ -28,8 +28,6 @@ social:
     icon_pack: fas
     link: https://keithpatarroyo.netlify.app/
 organizations:
-[//]: # (  - name: Chemify)
-[//]: # (    url: "https://www.chemify.io/")
   - name: Univerity of Glasgow
     url: "http://www.chem.gla.ac.uk/cronin/"
 education:
