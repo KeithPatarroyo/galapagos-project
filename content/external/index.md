@@ -52,6 +52,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Valverde, Sergi, and Ricard V. Solé. "Punctuated equilibrium in the large-scale evolution of programming languages." Journal of The Royal Society Interface 12.107 (2015): 20150249.
 - Solé R., Amor D.R. and Valverde S. On singularities and black holes in combination-driven models of technological innovation networks. PLoS One, 11 (1) (2016), p. e0146180
 - Solé Ricard and Valverde Sergi. Evolving complexity: how tinkering shapes cells, software and ecological networks. Phil. Trans. R. Soc. (2020) B3752019032520190325 http://doi.org/10.1098/rstb.2019.0325 (Preprint: https://arxiv.org/pdf/1907.05528.pdf)
+- Duran-Nebreda, Salva, and Sergi Valverde. "Imitation-driven Cultural Collapse." (2021). https://psyarxiv.com/dt6bx
 ## Making Machines
 - Gershenfeld, P. N., et al. How To Make Something That Makes (almost) Anything. [MIT MAS.865 2021](https://fab.cba.mit.edu/classes/865.21/).
 - Church,G.,  et al. How To Grow (almost) Anything. [MIT MAS.63 2021](https://fab.cba.mit.edu/classes/S63.21/index.html).
@@ -85,8 +86,11 @@ Listed here for convenience are publications of which we are aware that may be r
 - Youngblood, Mason, Karim Baraghith, and Patrick E. Savage. "Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975–1999)." Evolution and Human Behavior (2021).
 - Aguirre-Fernández, G., Barbieri, C., Graff, A. et al. Cultural macroevolution of musical instruments in South America. Humanit Soc Sci Commun 8, 208 (2021). https://doi.org/10.1057/s41599-021-00881-z
 - Mehr SA, Singh M, Knox D et al. Universality and diversity in human song. Science 366 (2019): https://doi.org/10.1126/science.aax0868
-- Gabora Liane and Steel Mike 2021An evolutionary process without variation and selectionJ. R. Soc. Interface.182021033420210334
-http://doi.org/10.1098/rsif.2021.0334
+- Gabora Liane and Steel Mike 2021. An evolutionary process without variation and selectionJ. R. Soc. Interface.182021033420210334 http://doi.org/10.1098/rsif.2021.0334
+- Simon Dedeo. Major Transitions in Political Order. In S.I. Walker, P.C.W. Davies, and G.F.R. Ellis, editors, From Matter to Life: Information and Causality. Cambridge University Press, Cambridge, United Kingdom, 2017. pp. 393-428 https://arxiv.org/abs/1512.03419
+- Chang, Kent K., and Simon DeDeo. "Divergence and the Complexity of Difference in Text and Culture." Journal of Cultural Analytics 4.11 (2020): 1-36.
+- Miton, Helena, and Simon DeDeo. "The Cultural Transmission of Tacit Knowledge." arXiv preprint arXiv:2201.03582 (2022).
+- Viteri, Scott, and Simon DeDeo. "Epistemic phase transitions in mathematical proofs." Cognition 225 (2022): 105120.
 ## Biological Self-Replicators and Universal Constructors
 - Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
@@ -248,6 +252,7 @@ http://doi.org/10.1098/rsif.2021.0334
 - Wolfram,S. The Empirical Metamathematics of Euclid and Beyond, 2020. Available at https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
 - Wolfram,S. Multicomputation with Numbers: The Case of Simple Multiway Systems, 2021. Available at https://www.wolframphysics.org/bulletins/2021/10/multicomputation-with-numbers-the-case-of-simple-multiway-systems/
 - Viteri, Scott, and Simon DeDeo. "Explosive proofs of mathematical truths." arXiv preprint arXiv:2004.00055 (2020).
+- Viteri, Scott, and Simon DeDeo. "Epistemic phase transitions in mathematical proofs." Cognition 225 (2022): 105120.
 ## Empirical MetaScience
 - An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, & H. Eugene Stanley. The science of science: From the perspective of complex systems. Physics Reports, 714-715, 1-73 (2017).
 - Anastasia Buyalskaya, Marcos Gallo, & Colin F. Camerer. The golden age of social science. Proceedings of the National Academy of Sciences, 118(5), e2002923118 (2021).
