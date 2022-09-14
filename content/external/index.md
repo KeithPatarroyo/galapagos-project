@@ -91,6 +91,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Chang, Kent K., and Simon DeDeo. "Divergence and the Complexity of Difference in Text and Culture." Journal of Cultural Analytics 4.11 (2020): 1-36.
 - Miton, Helena, and Simon DeDeo. "The Cultural Transmission of Tacit Knowledge." arXiv preprint arXiv:2201.03582 (2022).
 - Viteri, Scott, and Simon DeDeo. "Epistemic phase transitions in mathematical proofs." Cognition 225 (2022): 105120.
+- DeDeo, Simon. "Conflict and computation on Wikipedia: A finite-state machine analysis of editor interactions." Future Internet 8.3 (2016): 31.
 ## Biological Self-Replicators and Universal Constructors
 - Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
