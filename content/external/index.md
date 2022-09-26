@@ -92,6 +92,8 @@ Listed here for convenience are publications of which we are aware that may be r
 - Miton, Helena, and Simon DeDeo. "The Cultural Transmission of Tacit Knowledge." arXiv preprint arXiv:2201.03582 (2022).
 - Viteri, Scott, and Simon DeDeo. "Epistemic phase transitions in mathematical proofs." Cognition 225 (2022): 105120.
 - DeDeo, Simon. "Conflict and computation on Wikipedia: A finite-state machine analysis of editor interactions." Future Internet 8.3 (2016): 31.
+- Kelly, P., Winters, J., Miton, H., & Morin, O. (2020, April 25). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. https://doi.org/10.31235/osf.io/eg489
+- Cárdenas, Juan Pablo, et al. "The Structure of Online Information Behind Social Crises." Frontiers in Physics 9 (2021): 650648.
 ## Biological Self-Replicators and Universal Constructors
 - Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
@@ -115,6 +117,10 @@ Listed here for convenience are publications of which we are aware that may be r
 - Beer, Randall D. "Autopoiesis and cognition in the game of life." Artificial Life 10.3 (2004): 309-326.
 ## Computational Complexity
 - Artem Kaznatcheev, Computational Complexity as an Ultimate Constraint on Evolution, Genetics, Volume 212, Issue 1, 1 May 2019, Pages 245–265, https://doi.org/10.1534/genetics.119.302000
+## Entropy and Diversity
+- Fuentes, Miguel Angel. "Complexity and the emergence of physical properties." Entropy 16.8 (2014): 4489-4496.
+- Posada, Jose Gallego, et al. "GAIT: A Geometric Approach to Information Theory." International Conference on Artificial Intelligence and Statistics. PMLR, 2020.
+- Leinster, Tom, and Christina A. Cobbold. "Measuring diversity: the importance of species similarity." Ecology 93.3 (2012): 477-489.
 # Chemistry
 ## Chemical Computation 
 - Flumini D., Weyland M.S., Schneider J.J., Fellermann H., Füchslin R.M. (2020) Towards Programmable Chemistries. Artificial Life and Evolutionary Computation. WIVACE 2019. Communications in Computer and Information Science, vol 1200. Springer, Cham. https://doi.org/10.1007/978-3-030-45016-8_15
@@ -192,6 +198,9 @@ Listed here for convenience are publications of which we are aware that may be r
 - Goguen, J. A. Sheaf semantics for concurrent interacting objects. Mathematical Structures in Computer Science, 2(2), 159-191 (1992).
 ## Algorithmic Complexity
 - Zenil, Hector, Narsis A. Kiani, and Jesper Tegnér. "Algorithmic information dynamics of persistent patterns and colliding particles in the game of life." arXiv preprint arXiv:1802.07181 (2018).
+## Computational Complexity
+- Aaronson, Scott. "Why philosophers should care about computational complexity." Computability: Turing, Gödel, Church, and Beyond 261 (2013): 327.
+- S. Goldwasser, S. Micali, and C. Rackoff. The knowledge complexity of interactive proof systems. SIAM J. Comput., 18(1):186208, 1989.
 ## Machine Learning
 - François Chollet. On the Measure of Intelligence (2019).
 - Pascal Friederich, Mario Krenn, Isaac Tamblyn, & Alán Aspuru-Guzik. Scientific intuition inspired by machine learning-generated hypotheses. Machine Learning: Science and Technology, 2(2), 025027 (2021).
@@ -220,7 +229,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - Deutsch, David, and Chiara Marletto. "Constructor theory of information." Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 471.2174 (2015): 20140540.
 - Wolfram, Stephen. A Project to Find the Fundamental Theory of Physics. Wolfram Media, Incorporated, 2020.
 ## Thermodynamics & Statistical Physics
-- Simon Dedeo. Introduction to Renormalization‐ online course.https://www.complexityexplorer.org/courses/67-introduction-to-renormalization. Santa Fe Institute, 2017.
+- Simon Dedeo. Introduction to Renormalization‐ online course. https://www.complexityexplorer.org/courses/67-introduction-to-renormalization Santa Fe Institute, 2017.
 - Flack Jessica C. Coarse-graining as a downward causation mechanism. Phil. Trans. R. Soc. (2017) A.3752016033820160338
 - Chiara Marletto. (2017). Constructor Theory of Thermodynamics. https://arxiv.org/abs/1608.02625
 - Chiara Marletto (2022). The information-theoretic foundation of thermodynamic work extraction. Journal of Physics Communications, 6(5), 055012.
