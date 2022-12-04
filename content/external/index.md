@@ -94,6 +94,7 @@ Listed here for convenience are publications of which we are aware that may be r
 - DeDeo, Simon. "Conflict and computation on Wikipedia: A finite-state machine analysis of editor interactions." Future Internet 8.3 (2016): 31.
 - Kelly, P., Winters, J., Miton, H., & Morin, O. (2020, April 25). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. https://doi.org/10.31235/osf.io/eg489
 - Cárdenas, Juan Pablo, et al. "The Structure of Online Information Behind Social Crises." Frontiers in Physics 9 (2021): 650648.
+- Zannettou, Savvas, et al. "On the origins of memes by means of fringe web communities." Proceedings of the Internet Measurement Conference 2018. 2018.
 ## Biological Self-Replicators and Universal Constructors
 - Benenson, Yaakov, et al. "DNA molecule provides a computing machine with both data and fuel." Proceedings of the National Academy of Sciences 100.5 (2003): 2191-2196.
 - Hutchison, Clyde A., et al. "Design and synthesis of a minimal bacterial genome." Science 351.6280 (2016).
