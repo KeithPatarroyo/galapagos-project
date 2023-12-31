@@ -18,10 +18,10 @@ publication_types: ["1"]
 publication: "2nd Workshop on Agent Learning in Open-Endedness (ALOE) at NeurIPS 2023"
 publication_short: "ALOE-NeurIPS"
 
-abstract: "We introduce AssemblyCA, a framework for utilizing cellular automata(CA) designed to benchmark the potential of open-ended processes. The benchmark quantifies the open-endedness of a system composed of resources, agents interacting with CAs, and a set of generated artifacts. We quantify the amount of open-endedness by taking the generated artifacts or objects and analyzing them using the tools of assembly theory(AT). Assembly theory can be used to identify selection in systems that produce objects that can be decomposable into atomic units, where these objects can exist in high copy numbers. By combining an assembly space measure with the copy number of an object we can quantify the complexity of objects that have a historical contingency. Moreover, this framework allows us to accurately quantify the indefinite generation of novel, diverse, and complex objects, the signature of open-endedness. We benchmark different measures from the assembly space with standard diversity and complexity measures that lack historical contingency. Finally, the open-endedness of three different systems is quantified by performing an undirected exploration in two-dimensional life-like CA, a cultural exploration provided by human experimenters, and an algorithmic exploration by a set of programmed agents."
+abstract: "We introduce AssemblyCA, a framework for utilizing cellular automata(CA) designed to benchmark the potential of open-ended processes. The benchmark quantifies the open-endedness of a system composed of resources, agents interacting with CAs, and a set of generated artifacts. We quantify the amount of open-endedness by taking the generated artifacts or objects and analyzing them using the tools of [assembly theory(AT)](https://www.nature.com/articles/s41586-023-06600-9). Assembly theory can be used to identify selection in systems that produce objects that can be decomposable into atomic units, where these objects can exist in high copy numbers. By combining an assembly space measure with the copy number of an object we can quantify the complexity of objects that have a historical contingency. Moreover, this framework allows us to accurately quantify the indefinite generation of novel, diverse, and complex objects, the signature of open-endedness. We benchmark different measures from the assembly space with standard diversity and complexity measures that lack historical contingency. Finally, the open-endedness of three different systems is quantified by performing an undirected exploration in two-dimensional life-like CA, a cultural exploration provided by human experimenters, and an algorithmic exploration by a set of programmed agents."
 
 # Summary. An optional shortened abstract.
-summary: "Conference paper containing a novel metric and a framework to interpret the open-endedness of agentes generating patterns in cellular automata"
+summary: "Conference paper containing a novel metric and a framework based on [assembly theory](https://www.nature.com/articles/s41586-023-06600-9) to interpret the open-endedness of agents generating patterns in cellular automata"
 
 tags:
 - Adjacent
@@ -29,12 +29,12 @@ featured: false
 
 links:
 - name: 'Project Page'
-  url: https://www.sum.si/journal-articles/the-psyche-of-the-universe
+  url: https://assemblyca.github.io/
 url_pdf: 'https://openreview.net/pdf?id=5cEQ4ZOsIN'
 url_code: '' 
 url_dataset: ''
 url_poster: 'https://assemblyca.github.io/assets/images/Poster_vertical.pdf'
-url_project: 'https://www.sum.si/journal-articles/the-psyche-of-the-universe'
+url_project: 'https://assemblyca.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
